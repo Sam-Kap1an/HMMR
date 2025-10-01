@@ -1,0 +1,501 @@
+seq_id,description,length,pred_class,bit_score,evalue,query_len,target_len
+tr|A0A6A4STS7|A0A6A4STS7_SCOMX,tr|A0A6A4STS7|A0A6A4STS7_SCOMX Aldehyde dehydrogenase family 3 member A2 OS=Scophthalmus maximus OX=52904 GN=F2P81_009120 PE=3 SV=1,797,8ca.beta.45,80.4,8.3e-26,797.0,381.0
+tr|A0A834BR83|A0A834BR83_ORYME,tr|A0A834BR83|A0A834BR83_ORYME Aldehyde dehydrogenase family 3 member A2 OS=Oryzias melastigma OX=30732 GN=FQA47_007151 PE=3 SV=1,566,8ca.beta.45,77.3,7.399999999999999e-25,566.0,381.0
+tr|A0A8C8XNP7|A0A8C8XNP7_PANLE,tr|A0A8C8XNP7|A0A8C8XNP7_PANLE Serotransferrin OS=Panthera leo OX=9689 GN=TF PE=3 SV=1,704,NO_HIT,,,,
+tr|A0A9N8V4Z2|A0A9N8V4Z2_9GLOM,tr|A0A9N8V4Z2|A0A9N8V4Z2_9GLOM Phosphatidyl-N-methylethanolamine N-methyltransferase OS=Ambispora leptoticha OX=144679 GN=ALEPTO_LOCUS469 PE=3 SV=1,1142,8ca.alpha.45,13.4,1.6e-05,1142.0,349.0
+tr|A0AAD6AS60|A0AAD6AS60_9TELE,tr|A0AAD6AS60|A0AAD6AS60_9TELE Aldehyde dehydrogenase family 3 member A2 OS=Pogonophryne albipinna OX=1090488 GN=JOQ06_019007 PE=3 SV=1,810,8ca.beta.45,81.2,4.6e-26,810.0,381.0
+tr|A0AAD9EVU2|A0AAD9EVU2_DISEL,tr|A0AAD9EVU2|A0AAD9EVU2_DISEL Aldehyde dehydrogenase family 3 member A2 OS=Dissostichus eleginoides OX=100907 GN=KUDE01_024082 PE=3 SV=1,760,8ca.beta.45,81.8,3.1e-26,760.0,381.0
+sp|A7MAQ2|DIOA3_DIOJA,sp|A7MAQ2|DIOA3_DIOJA Dioscorin dioA3 OS=Dioscorea japonica OX=4673 GN=dioA3 PE=1 SV=1,271,8ca.beta.45,166.5,5.6e-52,271.0,381.0
+tr|A9XP97|A9XP97_DANRE,tr|A9XP97|A9XP97_DANRE Sodium/hydrogen exchanger OS=Danio rerio OX=7955 GN=slc9a3.2 PE=2 SV=1,851,NO_HIT,,,,
+sp|B9EKR1|PTPRZ_MOUSE,sp|B9EKR1|PTPRZ_MOUSE Receptor-type tyrosine-protein phosphatase zeta OS=Mus musculus OX=10090 GN=Ptprz1 PE=1 SV=1,2312,8ca.beta.45,91.7,3.0999999999999997e-29,2312.0,381.0
+sp|G0WXL9|CS2H_ACIS1,sp|G0WXL9|CS2H_ACIS1 Carbon disulfide hydrolase OS=Acidianus sp. (strain A1-3) OX=1071056 GN=csh PE=1 SV=1,204,8ca.alpha.45,87.4,5e-28,204.0,349.0
+sp|O04846|ATCA1_ARATH,"sp|O04846|ATCA1_ARATH Alpha carbonic anhydrase 1, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=ACA1 PE=1 SV=2",284,8ca.beta.45,180.2,3.8999999999999997e-56,284.0,381.0
+sp|O43570|CAH12_HUMAN,sp|O43570|CAH12_HUMAN Carbonic anhydrase 12 OS=Homo sapiens OX=9606 GN=CA12 PE=1 SV=1,354,8ca.beta.45,116.0,1.2e-36,354.0,381.0
+sp|O85040|RBL1_HALNC,sp|O85040|RBL1_HALNC Ribulose bisphosphate carboxylase large chain OS=Halothiobacillus neapolitanus (strain ATCC 23641 / c2) OX=555778 GN=cbbL PE=1 SV=1,473,NO_HIT,,,,
+sp|O85041|CSOS2_HALNC,sp|O85041|CSOS2_HALNC Carboxysome assembly protein CsoS2B OS=Halothiobacillus neapolitanus (strain ATCC 23641 / c2) OX=555778 GN=csoS2 PE=1 SV=1,869,NO_HIT,,,,
+sp|O85042|CSOCA_HALNC,sp|O85042|CSOCA_HALNC Carboxysome shell carbonic anhydrase OS=Halothiobacillus neapolitanus (strain ATCC 23641 / c2) OX=555778 GN=csoS3 PE=1 SV=2,514,NO_HIT,,,,
+sp|O88343|S4A4_MOUSE,sp|O88343|S4A4_MOUSE Electrogenic sodium bicarbonate cotransporter 1 OS=Mus musculus OX=10090 GN=Slc4a4 PE=1 SV=2,1079,NO_HIT,,,,
+sp|P00879|RBL_NOSS1,sp|P00879|RBL_NOSS1 Ribulose bisphosphate carboxylase large chain OS=Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576) OX=103690 GN=cbbL PE=1 SV=3,476,NO_HIT,,,,
+sp|P00915|CAH1_HUMAN,sp|P00915|CAH1_HUMAN Carbonic anhydrase 1 OS=Homo sapiens OX=9606 GN=CA1 PE=1 SV=2,261,8ca.beta.45,152.8,8e-48,261.0,381.0
+sp|P00917|CAH1_HORSE,sp|P00917|CAH1_HORSE Carbonic anhydrase 1 OS=Equus caballus OX=9796 GN=CA1 PE=1 SV=3,261,8ca.beta.45,159.3,8.6e-50,261.0,381.0
+sp|P00918|CAH2_HUMAN,sp|P00918|CAH2_HUMAN Carbonic anhydrase 2 OS=Homo sapiens OX=9606 GN=CA2 PE=1 SV=2,260,8ca.beta.45,147.2,4.2999999999999996e-46,260.0,381.0
+sp|P00919|CAH2_RABIT,sp|P00919|CAH2_RABIT Carbonic anhydrase 2 OS=Oryctolagus cuniculus OX=9986 GN=CA2 PE=1 SV=3,260,8ca.beta.45,152.3,1.2e-47,260.0,381.0
+sp|P00920|CAH2_MOUSE,sp|P00920|CAH2_MOUSE Carbonic anhydrase 2 OS=Mus musculus OX=10090 GN=Ca2 PE=1 SV=4,260,8ca.beta.45,150.1,5.3e-47,260.0,381.0
+sp|P00921|CAH2_BOVIN,sp|P00921|CAH2_BOVIN Carbonic anhydrase 2 OS=Bos taurus OX=9913 GN=CA2 PE=1 SV=3,260,8ca.beta.45,156.9,4.8e-49,260.0,381.0
+sp|P00922|CAH2_SHEEP,sp|P00922|CAH2_SHEEP Carbonic anhydrase 2 OS=Ovis aries OX=9940 GN=CA2 PE=1 SV=2,260,8ca.beta.45,141.4,2.5e-44,260.0,381.0
+sp|P07451|CAH3_HUMAN,sp|P07451|CAH3_HUMAN Carbonic anhydrase 3 OS=Homo sapiens OX=9606 GN=CA3 PE=1 SV=3,260,8ca.beta.45,140.5,4.5e-44,260.0,381.0
+sp|P07630|CAH2_CHICK,sp|P07630|CAH2_CHICK Carbonic anhydrase 2 OS=Gallus gallus OX=9031 GN=CA2 PE=2 SV=3,260,8ca.beta.45,144.0,4.0000000000000006e-45,260.0,381.0
+sp|P12960|CNTN1_MOUSE,sp|P12960|CNTN1_MOUSE Contactin-1 OS=Mus musculus OX=10090 GN=Cntn1 PE=1 SV=1,1020,NO_HIT,,,,
+sp|P14141|CAH3_RAT,sp|P14141|CAH3_RAT Carbonic anhydrase 3 OS=Rattus norvegicus OX=10116 GN=Ca3 PE=1 SV=3,260,8ca.beta.45,135.4,1.6e-42,260.0,381.0
+sp|P16015|CAH3_MOUSE,sp|P16015|CAH3_MOUSE Carbonic anhydrase 3 OS=Mus musculus OX=10090 GN=Ca3 PE=1 SV=3,260,8ca.beta.45,134.9,2.3e-42,260.0,381.0
+sp|P17067|CAHC_PEA,"sp|P17067|CAHC_PEA Carbonic anhydrase, chloroplastic OS=Pisum sativum OX=3888 PE=1 SV=1",328,NO_HIT,,,,
+sp|P18761|CAH6_MOUSE,sp|P18761|CAH6_MOUSE Carbonic anhydrase 6 OS=Mus musculus OX=10090 GN=Ca6 PE=1 SV=3,317,8ca.beta.45,143.1,7.100000000000001e-45,317.0,381.0
+sp|P20507|CAH1_CHLRE,sp|P20507|CAH1_CHLRE Carbonic anhydrase 1 OS=Chlamydomonas reinhardtii OX=3055 GN=CAH1 PE=1 SV=1,377,8ca.beta.45,130.4,5.3e-41,377.0,381.0
+sp|P22748|CAH4_HUMAN,sp|P22748|CAH4_HUMAN Carbonic anhydrase 4 OS=Homo sapiens OX=9606 GN=CA4 PE=1 SV=2,312,8ca.beta.45,104.6,3.7e-33,312.0,381.0
+sp|P23280|CAH6_HUMAN,sp|P23280|CAH6_HUMAN Carbonic anhydrase 6 OS=Homo sapiens OX=9606 GN=CA6 PE=1 SV=3,308,8ca.beta.45,110.8,4.7999999999999997e-35,308.0,381.0
+sp|P23470|PTPRG_HUMAN,sp|P23470|PTPRG_HUMAN Receptor-type tyrosine-protein phosphatase gamma OS=Homo sapiens OX=9606 GN=PTPRG PE=1 SV=4,1445,8ca.beta.45,95.6,1.9999999999999998e-30,1445.0,381.0
+sp|P23471|PTPRZ_HUMAN,sp|P23471|PTPRZ_HUMAN Receptor-type tyrosine-protein phosphatase zeta OS=Homo sapiens OX=9606 GN=PTPRZ1 PE=1 SV=4,2315,8ca.beta.45,91.9,2.6e-29,2315.0,381.0
+sp|P23589|CAH5A_MOUSE,"sp|P23589|CAH5A_MOUSE Carbonic anhydrase 5A, mitochondrial OS=Mus musculus OX=10090 GN=Ca5a PE=1 SV=2",299,8ca.beta.45,119.6,1e-37,299.0,381.0
+sp|P27134|CYNT_SYNE7,sp|P27134|CYNT_SYNE7 Carbonic anhydrase OS=Synechococcus elongatus (strain ATCC 33912 / PCC 7942 / FACHB-805) OX=1140 GN=ccaA PE=1 SV=1,272,8ca.alpha.45,20.1,1.5e-07,272.0,349.0
+sp|P27139|CAH2_RAT,sp|P27139|CAH2_RAT Carbonic anhydrase 2 OS=Rattus norvegicus OX=10116 GN=Ca2 PE=1 SV=2,260,8ca.beta.45,148.1,2.3e-46,260.0,381.0
+sp|P27140|BCA1_ARATH,"sp|P27140|BCA1_ARATH Beta carbonic anhydrase 1, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=BCA1 PE=1 SV=2",347,8ca.alpha.45,15.2,4.4e-06,347.0,349.0
+sp|P28651|CAH8_MOUSE,sp|P28651|CAH8_MOUSE Carbonic anhydrase-related protein OS=Mus musculus OX=10090 GN=Ca8 PE=1 SV=5,291,8ca.beta.45,97.4,5.6e-31,291.0,381.0
+sp|P35218|CAH5A_HUMAN,"sp|P35218|CAH5A_HUMAN Carbonic anhydrase 5A, mitochondrial OS=Homo sapiens OX=9606 GN=CA5A PE=1 SV=1",305,8ca.beta.45,119.5,1.1e-37,305.0,381.0
+sp|P35219|CAH8_HUMAN,sp|P35219|CAH8_HUMAN Carbonic anhydrase-related protein OS=Homo sapiens OX=9606 GN=CA8 PE=1 SV=3,290,8ca.beta.45,96.3,1.2000000000000001e-30,290.0,381.0
+sp|P40881|CAH_METTT,sp|P40881|CAH_METTT Carbonic anhydrase OS=Methanosarcina thermophila (strain ATCC 43570 / DSM 1825 / OCM 12 / VKM B-1830 / TM-1) OX=523844 GN=MSTHT_0588 PE=1 SV=1,247,8ca.gamma.45,68.5,2.1e-22,247.0,185.0
+sp|P42737|BCA2_ARATH,"sp|P42737|BCA2_ARATH Beta carbonic anhydrase 2, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=BCA2 PE=1 SV=3",331,8ca.alpha.45,15.1,4.9e-06,331.0,349.0
+sp|P43166|CAH7_HUMAN,sp|P43166|CAH7_HUMAN Carbonic anhydrase 7 OS=Homo sapiens OX=9606 GN=CA7 PE=1 SV=1,264,8ca.beta.45,151.3,2.4e-47,264.0,381.0
+sp|P43241|CDX2_MOUSE,sp|P43241|CDX2_MOUSE Homeobox protein CDX-2 OS=Mus musculus OX=10090 GN=Cdx2 PE=1 SV=1,311,NO_HIT,,,,
+sp|P45689|CSOSA_HALNC,sp|P45689|CSOSA_HALNC Major carboxysome shell protein CsoS1A OS=Halothiobacillus neapolitanus (strain ATCC 23641 / c2) OX=555778 GN=csoS1A PE=1 SV=2,98,NO_HIT,,,,
+sp|P48284|CAH4_RAT,sp|P48284|CAH4_RAT Carbonic anhydrase 4 OS=Rattus norvegicus OX=10116 GN=Ca4 PE=1 SV=1,309,8ca.beta.45,106.3,1.1e-33,309.0,381.0
+sp|P53615|CAN_YEAST,sp|P53615|CAN_YEAST Carbonic anhydrase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=NCE103 PE=1 SV=1,221,8ca.alpha.45,17.7,7.6e-07,221.0,349.0
+sp|P56524|HDAC4_HUMAN,sp|P56524|HDAC4_HUMAN Histone deacetylase 4 OS=Homo sapiens OX=9606 GN=HDAC4 PE=1 SV=3,1084,NO_HIT,,,,
+sp|P72758|CCMM_SYNY3,sp|P72758|CCMM_SYNY3 Carboxysome assembly protein CcmM OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=ccmM PE=1 SV=1,687,8ca.gamma.45,42.1,2.6e-14,687.0,185.0
+sp|P9WPJ7|MTCA1_MYCTU,sp|P9WPJ7|MTCA1_MYCTU Beta-carbonic anhydrase 1 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mtcA1 PE=1 SV=1,163,8ca.alpha.45,87.1,6.4000000000000005e-28,163.0,349.0
+sp|P9WPJ9|MTCA2_MYCTU,sp|P9WPJ9|MTCA2_MYCTU Carbonic anhydrase 2 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mtcA2 PE=1 SV=1,207,8ca.alpha.45,26.5,1.7e-09,207.0,349.0
+sp|Q03513|CCMM_SYNE7,sp|Q03513|CCMM_SYNE7 Carboxysome assembly protein CcmM OS=Synechococcus elongatus (strain ATCC 33912 / PCC 7942 / FACHB-805) OX=1140 GN=ccmM PE=1 SV=1,539,8ca.gamma.45,43.8,7.8e-15,539.0,185.0
+sp|Q05909|PTPRG_MOUSE,sp|Q05909|PTPRG_MOUSE Receptor-type tyrosine-protein phosphatase gamma OS=Mus musculus OX=10090 GN=Ptprg PE=1 SV=1,1442,8ca.beta.45,94.9,3.2e-30,1442.0,381.0
+sp|Q12860|CNTN1_HUMAN,sp|Q12860|CNTN1_HUMAN Contactin-1 OS=Homo sapiens OX=9606 GN=CNTN1 PE=1 SV=1,1018,NO_HIT,,,,
+sp|Q16790|CAH9_HUMAN,sp|Q16790|CAH9_HUMAN Carbonic anhydrase 9 OS=Homo sapiens OX=9606 GN=CA9 PE=1 SV=2,459,8ca.beta.45,93.3,1.0000000000000001e-29,459.0,381.0
+sp|Q27908|MANA_PINFU,sp|Q27908|MANA_PINFU Nacrein OS=Pinctada fucata OX=50426 PE=1 SV=1,447,8ca.beta.45,85.8,1.9e-27,447.0,381.0
+sp|Q31NB3|RBL_SYNE7,sp|Q31NB3|RBL_SYNE7 Ribulose bisphosphate carboxylase large chain OS=Synechococcus elongatus (strain ATCC 33912 / PCC 7942 / FACHB-805) OX=1140 GN=cbbL PE=1 SV=1,472,NO_HIT,,,,
+sp|Q4U116|S4A4_PIG,sp|Q4U116|S4A4_PIG Electrogenic sodium bicarbonate cotransporter 1 OS=Sus scrofa OX=9823 GN=SLC4A4 PE=1 SV=1,1079,NO_HIT,,,,
+sp|Q54735|CYNT_SYNY3,sp|Q54735|CYNT_SYNY3 Carbonic anhydrase OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=ccaA PE=1 SV=1,274,8ca.alpha.45,16.4,2e-06,274.0,349.0
+sp|Q5AJ71|CAN_CANAL,sp|Q5AJ71|CAN_CANAL Carbonic anhydrase OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=NCE103 PE=1 SV=1,281,8ca.alpha.45,18.3,5.4e-07,281.0,349.0
+sp|Q62656|PTPRZ_RAT,sp|Q62656|PTPRZ_RAT Receptor-type tyrosine-protein phosphatase zeta OS=Rattus norvegicus OX=10116 GN=Ptprz1 PE=1 SV=1,2316,8ca.beta.45,89.8,1.1000000000000002e-28,2316.0,381.0
+sp|Q63198|CNTN1_RAT,sp|Q63198|CNTN1_RAT Contactin-1 OS=Rattus norvegicus OX=10116 GN=Cntn1 PE=1 SV=2,1021,NO_HIT,,,,
+sp|Q64444|CAH4_MOUSE,sp|Q64444|CAH4_MOUSE Carbonic anhydrase 4 OS=Mus musculus OX=10090 GN=Ca4 PE=1 SV=1,305,8ca.beta.45,112.1,1.8999999999999998e-35,305.0,381.0
+sp|Q6FXU7|PDR1_CANGA,sp|Q6FXU7|PDR1_CANGA Transcription factor PDR1 OS=Candida glabrata (strain ATCC 2001 / BCRC 20586 / JCM 3761 / NBRC 0622 / NRRL Y-65 / CBS 138) OX=284593 GN=PDR1 PE=1 SV=1,1107,NO_HIT,,,,
+sp|Q75N34|DB3S_DIOPO,sp|Q75N34|DB3S_DIOPO Dioscorin DB3S OS=Dioscorea polystachya OX=55575 GN=DB3S PE=1 SV=1,268,8ca.beta.45,163.3,5.3e-51,268.0,381.0
+sp|Q75N35|DB3L_DIOPO,sp|Q75N35|DB3L_DIOPO Dioscorin DB3L OS=Dioscorea polystachya OX=55575 GN=DB3L PE=1 SV=1,272,8ca.beta.45,155.8,1e-48,272.0,381.0
+sp|Q7L1S5|CHST9_HUMAN,sp|Q7L1S5|CHST9_HUMAN Carbohydrate sulfotransferase 9 OS=Homo sapiens OX=9606 GN=CHST9 PE=1 SV=2,443,NO_HIT,,,,
+tr|Q804B2|Q804B2_DANRE,tr|Q804B2|Q804B2_DANRE Forkhead box protein I1 OS=Danio rerio OX=7955 GN=foxi1 PE=2 SV=1,377,NO_HIT,,,,
+sp|Q84UV8|NEC3_NICLS,sp|Q84UV8|NEC3_NICLS Bifunctional monodehydroascorbate reductase and carbonic anhydrase nectarin-3 OS=Nicotiana langsdorffii x Nicotiana sanderae OX=164110 GN=NEC3 PE=1 SV=1,274,8ca.beta.45,162.3,1.1e-50,274.0,381.0
+sp|Q8BTY2|S4A7_MOUSE,sp|Q8BTY2|S4A7_MOUSE Sodium bicarbonate cotransporter 3 OS=Mus musculus OX=10090 GN=Slc4a7 PE=1 SV=2,1034,NO_HIT,,,,
+sp|Q8CIW6|S26A6_MOUSE,sp|Q8CIW6|S26A6_MOUSE Solute carrier family 26 member 6 OS=Mus musculus OX=10090 GN=Slc26a6 PE=1 SV=2,758,NO_HIT,,,,
+sp|Q8DKB5|CCMM_THEVB,sp|Q8DKB5|CCMM_THEVB Carboxysome assembly protein CcmM OS=Thermosynechococcus vestitus (strain NIES-2133 / IAM M-273 / BP-1) OX=197221 GN=ccmM PE=1 SV=1,652,8ca.gamma.45,63.5,6.9e-21,652.0,185.0
+sp|Q8N1Q1|CAH13_HUMAN,sp|Q8N1Q1|CAH13_HUMAN Carbonic anhydrase 13 OS=Homo sapiens OX=9606 GN=CA13 PE=1 SV=1,262,8ca.beta.45,127.1,5.4e-40,262.0,381.0
+sp|Q8VHB5|CAH9_MOUSE,sp|Q8VHB5|CAH9_MOUSE Carbonic anhydrase 9 OS=Mus musculus OX=10090 GN=Ca9 PE=2 SV=2,437,8ca.beta.45,107.4,5.3000000000000005e-34,437.0,381.0
+sp|Q8YYI3|CCMM_NOSS1,sp|Q8YYI3|CCMM_NOSS1 Carboxysome assembly protein CcmM OS=Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576) OX=103690 GN=ccmM PE=1 SV=1,555,8ca.gamma.45,56.6,9.1e-19,555.0,185.0
+sp|Q94CE4|BCA4_ARATH,sp|Q94CE4|BCA4_ARATH Beta carbonic anhydrase 4 OS=Arabidopsis thaliana OX=3702 GN=BCA4 PE=1 SV=1,280,8ca.alpha.45,13.7,1.3e-05,280.0,349.0
+sp|Q9BXS9|S26A6_HUMAN,sp|Q9BXS9|S26A6_HUMAN Solute carrier family 26 member 6 OS=Homo sapiens OX=9606 GN=SLC26A6 PE=1 SV=1,759,NO_HIT,,,,
+sp|Q9C6B3|GCA2_ARATH,"sp|Q9C6B3|GCA2_ARATH Gamma carbonic anhydrase 2, mitochondrial OS=Arabidopsis thaliana OX=3702 GN=GAMMACA2 PE=1 SV=1",278,8ca.gamma.45,213.3,7.6e-67,278.0,185.0
+sp|Q9D6N1|CAH13_MOUSE,sp|Q9D6N1|CAH13_MOUSE Carbonic anhydrase 13 OS=Mus musculus OX=10090 GN=Ca13 PE=1 SV=1,262,8ca.beta.45,128.7,1.7e-40,262.0,381.0
+sp|Q9DBD0|ICA_MOUSE,sp|Q9DBD0|ICA_MOUSE Inhibitor of carbonic anhydrase OS=Mus musculus OX=10090 GN=Inhca PE=1 SV=1,700,NO_HIT,,,,
+sp|Q9GL77|S4A4_BOVIN,sp|Q9GL77|S4A4_BOVIN Electrogenic sodium bicarbonate cotransporter 1 OS=Bos taurus OX=9913 GN=SLC4A4 PE=1 SV=1,1079,NO_HIT,,,,
+sp|Q9H2A9|CHST8_HUMAN,sp|Q9H2A9|CHST8_HUMAN Carbohydrate sulfotransferase 8 OS=Homo sapiens OX=9606 GN=CHST8 PE=1 SV=2,424,NO_HIT,,,,
+sp|Q9JI66|S4A4_RAT,sp|Q9JI66|S4A4_RAT Electrogenic sodium bicarbonate cotransporter 1 OS=Rattus norvegicus OX=10116 GN=Slc4a4 PE=1 SV=1,1079,NO_HIT,,,,
+sp|Q9R1N3|S4A7_RAT,sp|Q9R1N3|S4A7_RAT Sodium bicarbonate cotransporter 3 OS=Rattus norvegicus OX=10116 GN=Slc4a7 PE=1 SV=1,1218,NO_HIT,,,,
+sp|Q9SMN1|GCAL2_ARATH,"sp|Q9SMN1|GCAL2_ARATH Gamma carbonic anhydrase-like 2, mitochondrial OS=Arabidopsis thaliana OX=3702 GN=GAMMACAL2 PE=1 SV=1",256,8ca.gamma.45,118.5,9.2e-38,256.0,185.0
+sp|Q9ULX7|CAH14_HUMAN,sp|Q9ULX7|CAH14_HUMAN Carbonic anhydrase 14 OS=Homo sapiens OX=9606 GN=CA14 PE=1 SV=1,337,8ca.beta.45,104.9,2.9e-33,337.0,381.0
+sp|Q9WVT6|CAH14_MOUSE,sp|Q9WVT6|CAH14_MOUSE Carbonic anhydrase 14 OS=Mus musculus OX=10090 GN=Ca14 PE=1 SV=1,337,8ca.beta.45,108.0,3.4e-34,337.0,381.0
+sp|Q9XSZ4|S4A4_RABIT,sp|Q9XSZ4|S4A4_RABIT Electrogenic sodium bicarbonate cotransporter 1 OS=Oryctolagus cuniculus OX=9986 GN=SLC4A4 PE=1 SV=1,1079,NO_HIT,,,,
+sp|Q9Y2D0|CAH5B_HUMAN,"sp|Q9Y2D0|CAH5B_HUMAN Carbonic anhydrase 5B, mitochondrial OS=Homo sapiens OX=9606 GN=CA5B PE=1 SV=1",317,8ca.beta.45,121.7,2.4e-38,317.0,381.0
+sp|Q9Y6M7|S4A7_HUMAN,sp|Q9Y6M7|S4A7_HUMAN Sodium bicarbonate cotransporter 3 OS=Homo sapiens OX=9606 GN=SLC4A7 PE=1 SV=2,1214,NO_HIT,,,,
+sp|Q9Y6R1|S4A4_HUMAN,sp|Q9Y6R1|S4A4_HUMAN Electrogenic sodium bicarbonate cotransporter 1 OS=Homo sapiens OX=9606 GN=SLC4A4 PE=1 SV=1,1079,NO_HIT,,,,
+sp|Q9Y6X9|MORC2_HUMAN,sp|Q9Y6X9|MORC2_HUMAN ATPase MORC2 OS=Homo sapiens OX=9606 GN=MORC2 PE=1 SV=2,1032,NO_HIT,,,,
+tr|A0A0D9RDZ2|A0A0D9RDZ2_CHLSB,tr|A0A0D9RDZ2|A0A0D9RDZ2_CHLSB Receptor-type tyrosine-protein phosphatase zeta OS=Chlorocebus sabaeus OX=60711 GN=PTPRZ1 PE=3 SV=1,2318,8ca.beta.45,92.2,2.2e-29,2318.0,381.0
+tr|A0A135LPI1|A0A135LPI1_PENPA,tr|A0A135LPI1|A0A135LPI1_PENPA Alpha-aminoadipate reductase OS=Penicillium patulum OX=5078 GN=PGRI_064350 PE=3 SV=1,1619,8ca.alpha.45,14.7,6.3e-06,1619.0,349.0
+tr|A0A1S3EUC1|A0A1S3EUC1_DIPOR,tr|A0A1S3EUC1|A0A1S3EUC1_DIPOR Carbonic anhydrase OS=Dipodomys ordii OX=10020 GN=Ca2 PE=3 SV=1,260,8ca.beta.45,143.6,5.2e-45,260.0,381.0
+tr|A0A229Z5D9|A0A229Z5D9_9EURO,tr|A0A229Z5D9|A0A229Z5D9_9EURO Alpha-aminoadipate reductase OS=Aspergillus turcosus OX=1245748 GN=LYS2 PE=3 SV=1,1631,NO_HIT,,,,
+tr|A0A257JKS5|A0A257JKS5_9PROT,tr|A0A257JKS5|A0A257JKS5_9PROT Glycerol-3-phosphate dehydrogenase [NAD(P)+] OS=Alphaproteobacteria bacterium PA3 OX=2015571 GN=gpsA PE=3 SV=1,330,NO_HIT,,,,
+tr|A0A2G7FPR3|A0A2G7FPR3_9EURO,tr|A0A2G7FPR3|A0A2G7FPR3_9EURO Alpha-aminoadipate reductase OS=Aspergillus arachidicola OX=656916 GN=AARAC_008592 PE=3 SV=1,1628,8ca.alpha.45,18.7,4e-07,1628.0,349.0
+tr|A0A2R9A4D6|A0A2R9A4D6_PANPA,tr|A0A2R9A4D6|A0A2R9A4D6_PANPA Carbonic anhydrase OS=Pan paniscus OX=9597 GN=CA4 PE=3 SV=1,304,8ca.beta.45,98.2,3.1e-31,304.0,381.0
+tr|A0A2R9CDB5|A0A2R9CDB5_PANPA,tr|A0A2R9CDB5|A0A2R9CDB5_PANPA Receptor-type tyrosine-protein phosphatase zeta OS=Pan paniscus OX=9597 GN=PTPRZ1 PE=1 SV=1,2316,8ca.beta.45,91.9,2.6e-29,2316.0,381.0
+tr|A0A397HFE0|A0A397HFE0_ASPTH,tr|A0A397HFE0|A0A397HFE0_ASPTH Carbonic anhydrase OS=Aspergillus thermomutatus OX=41047 GN=LYS2 PE=3 SV=1,1631,8ca.alpha.45,14.1,1e-05,1631.0,349.0
+tr|A0A3Q2I8M1|A0A3Q2I8M1_HORSE,tr|A0A3Q2I8M1|A0A3Q2I8M1_HORSE Carbonic anhydrase 4 OS=Equus caballus OX=9796 GN=CA4 PE=3 SV=1,329,8ca.beta.45,106.4,1e-33,329.0,381.0
+tr|A0A452EZJ5|A0A452EZJ5_CAPHI,tr|A0A452EZJ5|A0A452EZJ5_CAPHI Receptor-type tyrosine-protein phosphatase zeta OS=Capra hircus OX=9925 GN=PTPRZ1 PE=3 SV=1,2323,8ca.beta.45,90.2,8.5e-29,2323.0,381.0
+tr|A0A452G7Y5|A0A452G7Y5_CAPHI,tr|A0A452G7Y5|A0A452G7Y5_CAPHI Carbonic anhydrase 4 OS=Capra hircus OX=9925 GN=CA4 PE=3 SV=1,312,8ca.beta.45,118.6,2e-37,312.0,381.0
+tr|A0A663EEN0|A0A663EEN0_AQUCH,tr|A0A663EEN0|A0A663EEN0_AQUCH Carbonic anhydrase 4 OS=Aquila chrysaetos chrysaetos OX=223781 GN=CA4 PE=3 SV=1,316,8ca.beta.45,104.2,4.8e-33,316.0,381.0
+tr|A0A672U871|A0A672U871_STRHB,tr|A0A672U871|A0A672U871_STRHB Carbonic anhydrase 4 OS=Strigops habroptila OX=2489341 GN=CA4 PE=3 SV=1,316,8ca.beta.45,104.8,3.2000000000000005e-33,316.0,381.0
+tr|A0A6I8NGZ9|A0A6I8NGZ9_ORNAN,tr|A0A6I8NGZ9|A0A6I8NGZ9_ORNAN Receptor-type tyrosine-protein phosphatase zeta OS=Ornithorhynchus anatinus OX=9258 GN=PTPRZ1 PE=3 SV=1,2324,8ca.beta.45,92.4,1.8e-29,2324.0,381.0
+tr|A0A8C5YYS3|A0A8C5YYS3_MARMA,tr|A0A8C5YYS3|A0A8C5YYS3_MARMA Carbonic anhydrase OS=Marmota marmota marmota OX=9994 GN=CA2 PE=3 SV=1,256,8ca.beta.45,136.9,5.7999999999999995e-43,256.0,381.0
+tr|A0A8C9J6R5|A0A8C9J6R5_PANTA,tr|A0A8C9J6R5|A0A8C9J6R5_PANTA Transferrin OS=Panthera tigris altaica OX=74533 GN=TF PE=3 SV=1,692,NO_HIT,,,,
+tr|A0A8D2HKU9|A0A8D2HKU9_UROPR,tr|A0A8D2HKU9|A0A8D2HKU9_UROPR Carbonic anhydrase OS=Urocitellus parryii OX=9999 GN=CA4 PE=3 SV=1,310,8ca.beta.45,104.6,3.5e-33,310.0,381.0
+tr|A0A8D2HXP4|A0A8D2HXP4_UROPR,tr|A0A8D2HXP4|A0A8D2HXP4_UROPR Carbonic anhydrase OS=Urocitellus parryii OX=9999 GN=CA2 PE=3 SV=1,302,8ca.beta.45,127.8,3.2e-40,302.0,381.0
+tr|A0A8H6QXK1|A0A8H6QXK1_9EURO,tr|A0A8H6QXK1|A0A8H6QXK1_9EURO Carbonic anhydrase OS=Aspergillus felis OX=1287682 GN=CNMCM5623_008876 PE=3 SV=1,1631,8ca.alpha.45,11.3,7e-05,1631.0,349.0
+tr|A0A8H6UBA7|A0A8H6UBA7_9EURO,tr|A0A8H6UBA7|A0A8H6UBA7_9EURO Alpha-aminoadipate reductase OS=Aspergillus hiratsukae OX=1194566 GN=CNMCM5793_006929 PE=3 SV=1,1631,8ca.alpha.45,12.9,2.3e-05,1631.0,349.0
+tr|A0A8M1PBD2|A0A8M1PBD2_DANRE,tr|A0A8M1PBD2|A0A8M1PBD2_DANRE Carbonic anhydrase OS=Danio rerio OX=7955 GN=ca2 PE=1 SV=1,260,8ca.beta.45,165.0,1.6e-51,260.0,381.0
+tr|A0A8V0XA98|A0A8V0XA98_CHICK,tr|A0A8V0XA98|A0A8V0XA98_CHICK Receptor-type tyrosine-protein phosphatase zeta OS=Gallus gallus OX=9031 GN=PTPRZ1 PE=3 SV=1,2343,8ca.beta.45,97.1,6.8999999999999995e-31,2343.0,381.0
+tr|A0A8V1AKN8|A0A8V1AKN8_CHICK,tr|A0A8V1AKN8|A0A8V1AKN8_CHICK Carbonic anhydrase 4 OS=Gallus gallus OX=9031 GN=CA4 PE=1 SV=1,326,8ca.beta.45,99.0,1.7999999999999998e-31,326.0,381.0
+tr|A0A8X7XM43|A0A8X7XM43_POLSE,tr|A0A8X7XM43|A0A8X7XM43_POLSE Glutathione hydrolase (Fragment) OS=Polypterus senegalus OX=55291 GN=Ggt5 PE=3 SV=1,860,8ca.beta.45,107.5,4.8e-34,860.0,381.0
+tr|A0A9Q0EG67|A0A9Q0EG67_9TELE,tr|A0A9Q0EG67|A0A9Q0EG67_9TELE Carbonic anhydrase (Fragment) OS=Muraenolepis orangiensis OX=630683 GN=NHX12_026827 PE=3 SV=1,729,8ca.beta.45,70.2,1e-22,729.0,381.0
+tr|A0AAW8EXM4|A0AAW8EXM4_9MICO,tr|A0AAW8EXM4|A0AAW8EXM4_9MICO Fumarate hydratase class II OS=Microbacterium natoriense OX=284570 GN=fumC PE=3 SV=1,706,8ca.alpha.45,19.5,2.3e-07,706.0,349.0
+sp|A0ZSF2|MAF_PINFU,sp|A0ZSF2|MAF_PINFU Nacrein-like protein F OS=Pinctada fucata OX=50426 PE=1 SV=1,415,8ca.beta.45,86.8,9e-28,415.0,381.0
+sp|A0ZSF3|MAM_PINMA,sp|A0ZSF3|MAM_PINMA Nacrein-like protein M OS=Pinctada maxima OX=104660 PE=1 SV=1,421,8ca.beta.45,85.5,2.3e-27,421.0,381.0
+sp|A0ZSF4|MAP1_MIZYE,sp|A0ZSF4|MAP1_MIZYE Nacrein-like protein P1 (Fragment) OS=Mizuhopecten yessoensis OX=6573 PE=1 SV=1,331,8ca.beta.45,64.8,4.6e-21,331.0,381.0
+sp|A0ZSF5|MAP2_MIZYE,sp|A0ZSF5|MAP2_MIZYE Nacrein-like protein P2 OS=Mizuhopecten yessoensis OX=6573 PE=1 SV=1,430,8ca.beta.45,86.7,1e-27,430.0,381.0
+sp|A0ZSF7|MAC2_CRANI,sp|A0ZSF7|MAC2_CRANI Nacrein-like protein C2 (Fragment) OS=Crassostrea nippona OX=121615 PE=1 SV=1,415,8ca.beta.45,84.3,5.3e-27,415.0,381.0
+tr|A6IJ26|A6IJ26_RAT,tr|A6IJ26|A6IJ26_RAT Carbonic anhydrase OS=Rattus norvegicus OX=10116 GN=Car9 PE=3 SV=1,437,8ca.beta.45,104.3,4.6000000000000004e-33,437.0,381.0
+sp|B0BNN3|CAH1_RAT,sp|B0BNN3|CAH1_RAT Carbonic anhydrase 1 OS=Rattus norvegicus OX=10116 GN=Ca1 PE=1 SV=1,261,8ca.beta.45,149.8,6.799999999999999e-47,261.0,381.0
+sp|D0KWS7|DABA2_HALNC,sp|D0KWS7|DABA2_HALNC Probable inorganic carbon transporter subunit DabA2 OS=Halothiobacillus neapolitanus (strain ATCC 23641 / c2) OX=555778 GN=dabA2 PE=1 SV=1,827,NO_HIT,,,,
+sp|D0KWS8|DABB2_HALNC,sp|D0KWS8|DABB2_HALNC Probable inorganic carbon transporter subunit DabB2 OS=Halothiobacillus neapolitanus (strain ATCC 23641 / c2) OX=555778 GN=dabB2 PE=1 SV=1,551,NO_HIT,,,,
+tr|F1MGK5|F1MGK5_BOVIN,tr|F1MGK5|F1MGK5_BOVIN Receptor-type tyrosine-protein phosphatase zeta OS=Bos taurus OX=9913 GN=PTPRZ1 PE=3 SV=3,2323,8ca.beta.45,90.5,7.1e-29,2323.0,381.0
+tr|F1S1C3|F1S1C3_PIG,tr|F1S1C3|F1S1C3_PIG Carbonic anhydrase 4 OS=Sus scrofa OX=9823 GN=CA4 PE=1 SV=1,311,8ca.beta.45,120.9,4.1000000000000003e-38,311.0,381.0
+sp|F4IHR4|ATCA2_ARATH,sp|F4IHR4|ATCA2_ARATH Alpha carbonic anhydrase 2 OS=Arabidopsis thaliana OX=3702 GN=ACA2 PE=2 SV=2,245,8ca.beta.45,153.5,5.1e-48,245.0,381.0
+tr|F6PNY6|F6PNY6_MACMU,tr|F6PNY6|F6PNY6_MACMU Carbonic anhydrase OS=Macaca mulatta OX=9544 GN=CA4 PE=3 SV=3,471,8ca.beta.45,94.2,5.3000000000000004e-30,471.0,381.0
+tr|F6ZRD8|F6ZRD8_HORSE,tr|F6ZRD8|F6ZRD8_HORSE Receptor-type tyrosine-protein phosphatase zeta OS=Equus caballus OX=9796 GN=PTPRZ1 PE=3 SV=2,2327,8ca.beta.45,90.4,7.5e-29,2327.0,381.0
+tr|F7DJJ9|F7DJJ9_MACMU,tr|F7DJJ9|F7DJJ9_MACMU Receptor-type tyrosine-protein phosphatase zeta OS=Macaca mulatta OX=9544 GN=PTPRZ1 PE=3 SV=3,2319,8ca.beta.45,92.2,2.1e-29,2319.0,381.0
+tr|G1RMS6|G1RMS6_NOMLE,tr|G1RMS6|G1RMS6_NOMLE Receptor-type tyrosine-protein phosphatase zeta OS=Nomascus leucogenys OX=61853 GN=PTPRZ1 PE=3 SV=1,2315,8ca.beta.45,91.8,2.7999999999999997e-29,2315.0,381.0
+tr|G3R792|G3R792_GORGO,tr|G3R792|G3R792_GORGO Carbonic anhydrase OS=Gorilla gorilla gorilla OX=9595 GN=CA4 PE=3 SV=1,312,8ca.beta.45,102.0,2.2e-32,312.0,381.0
+tr|G3SHA3|G3SHA3_GORGO,tr|G3SHA3|G3SHA3_GORGO Receptor-type tyrosine-protein phosphatase zeta OS=Gorilla gorilla gorilla OX=9595 PE=1 SV=2,2316,8ca.beta.45,91.9,2.6e-29,2316.0,381.0
+tr|H0WAL8|H0WAL8_CAVPO,tr|H0WAL8|H0WAL8_CAVPO Carbonic anhydrase OS=Cavia porcellus OX=10141 GN=CA4 PE=3 SV=1,306,8ca.beta.45,110.8,4.7e-35,306.0,381.0
+tr|H0WMS5|H0WMS5_OTOGA,tr|H0WMS5|H0WMS5_OTOGA Carbonic anhydrase OS=Otolemur garnettii OX=30611 GN=CA4 PE=3 SV=1,314,8ca.beta.45,110.5,6e-35,314.0,381.0
+sp|H1AAP2|COSH_THITI,sp|H1AAP2|COSH_THITI Carbonyl sulfide hydrolase OS=Thiobacillus thioparus OX=931 GN=cos PE=1 SV=1,219,8ca.alpha.45,58.6,2.8e-19,219.0,349.0
+tr|H2R2R2|H2R2R2_PANTR,tr|H2R2R2|H2R2R2_PANTR Carbonic anhydrase OS=Pan troglodytes OX=9598 GN=CA4 PE=3 SV=1,312,8ca.beta.45,103.5,8e-33,312.0,381.0
+tr|H2R4Z7|H2R4Z7_PANTR,tr|H2R4Z7|H2R4Z7_PANTR Receptor-type tyrosine-protein phosphatase zeta OS=Pan troglodytes OX=9598 GN=PTPRZ1 PE=1 SV=1,2315,8ca.beta.45,91.9,2.6e-29,2315.0,381.0
+tr|H9GLZ6|H9GLZ6_ANOCA,tr|H9GLZ6|H9GLZ6_ANOCA Carbonic anhydrase OS=Anolis carolinensis OX=28377 GN=CA4 PE=3 SV=2,325,8ca.beta.45,114.5,3.5e-36,325.0,381.0
+tr|I3MFH1|I3MFH1_ICTTR,tr|I3MFH1|I3MFH1_ICTTR Carbonic anhydrase OS=Ictidomys tridecemlineatus OX=43179 GN=CA4 PE=3 SV=2,310,8ca.beta.45,101.5,3.2e-32,310.0,381.0
+tr|I3MKV4|I3MKV4_ICTTR,tr|I3MKV4|I3MKV4_ICTTR Carbonic anhydrase OS=Ictidomys tridecemlineatus OX=43179 GN=CA2 PE=3 SV=1,260,8ca.beta.45,150.8,3.3e-47,260.0,381.0
+tr|J4I8F5|J4I8F5_9APHY,tr|J4I8F5|J4I8F5_9APHY Fatty acid synthase subunit alpha OS=Fibroporia radiculosa OX=599839 GN=FIBRA_01337 PE=3 SV=1,4586,8ca.alpha.45,88.8,1.9000000000000003e-28,4586.0,349.0
+tr|K7FTJ3|K7FTJ3_PELSI,tr|K7FTJ3|K7FTJ3_PELSI Carbonic anhydrase OS=Pelodiscus sinensis OX=13735 GN=CA4 PE=3 SV=1,317,8ca.beta.45,124.6,3e-39,317.0,381.0
+tr|M3Y668|M3Y668_MUSPF,tr|M3Y668|M3Y668_MUSPF Receptor-type tyrosine-protein phosphatase zeta OS=Mustela putorius furo OX=9669 GN=PTPRZ1 PE=3 SV=1,2325,8ca.beta.45,90.3,8.000000000000001e-29,2325.0,381.0
+sp|O75493|CAH11_HUMAN,sp|O75493|CAH11_HUMAN Carbonic anhydrase-related protein 11 OS=Homo sapiens OX=9606 GN=CA11 PE=1 SV=2,328,8ca.beta.45,55.7,2.6e-18,328.0,381.0
+sp|O85043|CSS4A_HALNC,sp|O85043|CSS4A_HALNC Carboxysome shell vertex protein CsoS4A OS=Halothiobacillus neapolitanus (strain ATCC 23641 / c2) OX=555778 GN=csoS4A PE=1 SV=1,83,NO_HIT,,,,
+sp|O85044|CSS4B_HALNC,sp|O85044|CSS4B_HALNC Carboxysome shell vertex protein CsoS4B OS=Halothiobacillus neapolitanus (strain ATCC 23641 / c2) OX=555778 GN=csoS4B PE=1 SV=1,81,NO_HIT,,,,
+sp|P00916|CAH1_MACMU,sp|P00916|CAH1_MACMU Carbonic anhydrase 1 OS=Macaca mulatta OX=9544 GN=CA1 PE=1 SV=2,261,8ca.beta.45,158.1,2.0000000000000003e-49,261.0,381.0
+sp|P04195|CAHH_VACCW,sp|P04195|CAHH_VACCW Cell surface-binding protein OPG105 OS=Vaccinia virus (strain Western Reserve) OX=10254 GN=OPG105 PE=2 SV=1,304,8ca.beta.45,39.3,2.4e-13,304.0,381.0
+sp|P07450|CAH3_HORSE,sp|P07450|CAH3_HORSE Carbonic anhydrase 3 OS=Equus caballus OX=9796 GN=CA3 PE=1 SV=2,260,8ca.beta.45,131.1,3.2999999999999997e-41,260.0,381.0
+sp|P08060|CAH6_SHEEP,sp|P08060|CAH6_SHEEP Carbonic anhydrase 6 OS=Ovis aries OX=9940 GN=CA6 PE=1 SV=1,307,8ca.beta.45,113.8,5.8e-36,307.0,381.0
+sp|P0ABE9|CYNT_ECOLI,sp|P0ABE9|CYNT_ECOLI Carbonic anhydrase 1 OS=Escherichia coli (strain K12) OX=83333 GN=cynT PE=1 SV=1,219,8ca.alpha.45,21.8,4.5e-08,219.0,349.0
+sp|P0DO50|NEC1_NESMA,sp|P0DO50|NEC1_NESMA Carbonic anhydrase Nec1 OS=Nesocodon mauritianus OX=519296 GN=NEC1 PE=1 SV=1,276,8ca.beta.45,163.7,3.9e-51,276.0,381.0
+sp|P13634|CAH1_MOUSE,sp|P13634|CAH1_MOUSE Carbonic anhydrase 1 OS=Mus musculus OX=10090 GN=Ca1 PE=1 SV=4,261,8ca.beta.45,146.6,6.1999999999999994e-46,261.0,381.0
+sp|P18915|CAH6_BOVIN,sp|P18915|CAH6_BOVIN Carbonic anhydrase 6 OS=Bos taurus OX=9913 GN=CA6 PE=1 SV=2,319,8ca.beta.45,105.6,1.8e-33,319.0,381.0
+sp|P24258|CAH2_CHLRE,sp|P24258|CAH2_CHLRE Carbonic anhydrase 2 OS=Chlamydomonas reinhardtii OX=3055 GN=CAH2 PE=1 SV=1,380,8ca.beta.45,132.7,1.1e-41,380.0,381.0
+sp|P35217|CAH1_MACNE,sp|P35217|CAH1_MACNE Carbonic anhydrase 1 OS=Macaca nemestrina OX=9545 GN=CA1 PE=2 SV=2,261,8ca.beta.45,158.1,2.0000000000000003e-49,261.0,381.0
+sp|P43165|CAH5A_RAT,"sp|P43165|CAH5A_RAT Carbonic anhydrase 5A, mitochondrial OS=Rattus norvegicus OX=10116 GN=Ca5a PE=1 SV=1",304,8ca.beta.45,117.0,6.3e-37,304.0,381.0
+sp|P45548|PHP_ECOLI,sp|P45548|PHP_ECOLI Phosphotriesterase homology protein OS=Escherichia coli (strain K12) OX=83333 GN=php PE=1 SV=1,292,NO_HIT,,,,
+sp|P45686|RBS_HALNC,sp|P45686|RBS_HALNC Ribulose bisphosphate carboxylase small subunit OS=Halothiobacillus neapolitanus (strain ATCC 23641 / c2) OX=555778 GN=cbbS PE=1 SV=1,110,NO_HIT,,,,
+sp|P45688|CSOSC_HALNC,sp|P45688|CSOSC_HALNC Carboxysome shell protein CsoS1C OS=Halothiobacillus neapolitanus (strain ATCC 23641 / c2) OX=555778 GN=csoS1C PE=1 SV=1,98,NO_HIT,,,,
+sp|P45690|CSOSB_HALNC,sp|P45690|CSOSB_HALNC Carboxysome shell protein CsoS1B OS=Halothiobacillus neapolitanus (strain ATCC 23641 / c2) OX=555778 GN=csoS1B PE=1 SV=3,110,NO_HIT,,,,
+sp|P48282|CAH1_SHEEP,sp|P48282|CAH1_SHEEP Carbonic anhydrase 1 OS=Ovis aries OX=9940 GN=CA1 PE=2 SV=2,261,8ca.beta.45,157.6,2.8e-49,261.0,381.0
+sp|P48283|CAH4_RABIT,sp|P48283|CAH4_RABIT Carbonic anhydrase 4 OS=Oryctolagus cuniculus OX=9986 GN=CA4 PE=1 SV=1,308,8ca.beta.45,90.5,6.7e-29,308.0,381.0
+sp|P54205|RBL_SYNY3,sp|P54205|RBL_SYNY3 Ribulose bisphosphate carboxylase large chain OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=cbbL PE=1 SV=1,470,NO_HIT,,,,
+sp|P61517|CAN_ECOLI,sp|P61517|CAN_ECOLI Carbonic anhydrase 2 OS=Escherichia coli (strain K12) OX=83333 GN=can PE=1 SV=1,220,8ca.alpha.45,16.6,1.7e-06,220.0,349.0
+sp|P83299|CAH1_CHIHA,sp|P83299|CAH1_CHIHA Carbonic anhydrase 1 OS=Chionodraco hamatus OX=36188 GN=ca1 PE=1 SV=1,259,8ca.beta.45,149.1,1.1e-46,259.0,381.0
+sp|Q1LZA1|CAH1_BOVIN,sp|Q1LZA1|CAH1_BOVIN Carbonic anhydrase 1 OS=Bos taurus OX=9913 GN=CA1 PE=2 SV=3,261,8ca.beta.45,168.9,1.1e-52,261.0,381.0
+sp|Q29545|ICA_PIG,sp|Q29545|ICA_PIG Inhibitor of carbonic anhydrase OS=Sus scrofa OX=9823 GN=INHCA PE=1 SV=1,704,NO_HIT,,,,
+sp|Q31HD6|CSOCA_HYDCU,sp|Q31HD6|CSOCA_HYDCU Carboxysome shell carbonic anhydrase OS=Hydrogenovibrio crunogenus (strain DSM 25203 / XCL-2) OX=317025 GN=csoS3 PE=1 SV=1,528,NO_HIT,,,,
+sp|Q31NB2|RBS_SYNE7,sp|Q31NB2|RBS_SYNE7 Ribulose bisphosphate carboxylase small subunit OS=Synechococcus elongatus (strain ATCC 33912 / PCC 7942 / FACHB-805) OX=1140 GN=cbbS PE=1 SV=1,111,NO_HIT,,,,
+sp|Q50940|CAH_NEIGO,sp|Q50940|CAH_NEIGO Carbonic anhydrase OS=Neisseria gonorrhoeae OX=485 GN=cah PE=1 SV=2,252,8ca.beta.45,298.3,5.2e-92,252.0,381.0
+sp|Q55074|PANCY_SYNY3,sp|Q55074|PANCY_SYNY3 Bifunctional pantoate ligase/cytidylate kinase OS=Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa) OX=1111708 GN=panC/cmk PE=3 SV=2,513,NO_HIT,,,,
+sp|Q5KW03|CAG_GEOKA,sp|Q5KW03|CAG_GEOKA Carbonic anhydrase OS=Geobacillus kaustophilus (strain HTA426) OX=235909 GN=GK2848 PE=1 SV=1,182,8ca.gamma.45,204.8,3.1e-64,182.0,185.0
+sp|Q5S1S4|CAH3_PIG,sp|Q5S1S4|CAH3_PIG Carbonic anhydrase 3 OS=Sus scrofa OX=9823 GN=CA3 PE=2 SV=3,260,8ca.beta.45,135.2,1.8e-42,260.0,381.0
+tr|Q6PFU7|Q6PFU7_DANRE,tr|Q6PFU7|Q6PFU7_DANRE Carbonic anhydrase OS=Danio rerio OX=7955 GN=ca2 PE=2 SV=1,260,8ca.beta.45,163.9,3.5e-51,260.0,381.0
+tr|Q6R4A1|Q6R4A1_ONCMY,tr|Q6R4A1|Q6R4A1_ONCMY Carbonic anhydrase OS=Oncorhynchus mykiss OX=8022 GN=CA4 PE=2 SV=1,297,8ca.beta.45,100.3,7.4e-32,297.0,381.0
+sp|Q7M316|CAH1_GORGO,sp|Q7M316|CAH1_GORGO Carbonic anhydrase 1 OS=Gorilla gorilla gorilla OX=9595 GN=CA1 PE=3 SV=3,261,8ca.beta.45,154.4,2.6000000000000002e-48,261.0,381.0
+sp|Q7M317|CAH1_PANTR,sp|Q7M317|CAH1_PANTR Carbonic anhydrase 1 OS=Pan troglodytes OX=9598 GN=CA1 PE=3 SV=3,261,8ca.beta.45,153.1,6.8e-48,261.0,381.0
+tr|Q7SY46|Q7SY46_DANRE,tr|Q7SY46|Q7SY46_DANRE H(+)-transporting two-sector ATPase OS=Danio rerio OX=7955 GN=atp6v1aa PE=1 SV=1,617,NO_HIT,,,,
+sp|Q7TTT8|CSOCA_PARMW,sp|Q7TTT8|CSOCA_PARMW Carboxysome shell carbonic anhydrase OS=Parasynechococcus marenigrum (strain WH8102) OX=84588 GN=csoS3 PE=1 SV=1,579,NO_HIT,,,,
+sp|Q8CI85|CAH12_MOUSE,sp|Q8CI85|CAH12_MOUSE Carbonic anhydrase 12 OS=Mus musculus OX=10090 GN=Ca12 PE=1 SV=1,354,8ca.beta.45,123.5,6.6e-39,354.0,381.0
+sp|Q8HY33|CAH1_MONDO,sp|Q8HY33|CAH1_MONDO Carbonic anhydrase 1 OS=Monodelphis domestica OX=13616 GN=CA1 PE=2 SV=1,262,8ca.beta.45,159.2,9.4e-50,262.0,381.0
+sp|Q8HY34|HBA_MONDO,sp|Q8HY34|HBA_MONDO Hemoglobin subunit alpha OS=Monodelphis domestica OX=13616 GN=HBA PE=2 SV=3,142,NO_HIT,,,,
+sp|Q8YT18|MICAH_NOSS1,sp|Q8YT18|MICAH_NOSS1 Metal-independent carbonic anhydrase OS=Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576) OX=103690 GN=all2909 PE=1 SV=1,205,8ca.iota.45,289.7,2.5000000000000002e-89,205.0,352.0
+sp|Q92051|CAHZ_DANRE,sp|Q92051|CAHZ_DANRE Carbonic anhydrase OS=Danio rerio OX=7955 GN=cahz PE=1 SV=2,260,8ca.beta.45,159.2,9.6e-50,260.0,381.0
+sp|Q94AU7|GCA3_ARATH,"sp|Q94AU7|GCA3_ARATH Gamma carbonic anhydrase 3, mitochondrial OS=Arabidopsis thaliana OX=3702 GN=GAMMACA3 PE=1 SV=1",258,8ca.gamma.45,188.0,4.400000000000001e-59,258.0,185.0
+sp|Q95323|CAH4_BOVIN,sp|Q95323|CAH4_BOVIN Carbonic anhydrase 4 OS=Bos taurus OX=9913 GN=CA4 PE=2 SV=1,312,8ca.beta.45,114.7,3.1e-36,312.0,381.0
+sp|Q98936|PTPRG_CHICK,sp|Q98936|PTPRG_CHICK Receptor-type tyrosine-protein phosphatase gamma OS=Gallus gallus OX=9031 GN=PTPRG PE=2 SV=1,1422,8ca.beta.45,104.0,5.4e-33,1422.0,381.0
+sp|Q99N23|CAH15_MOUSE,sp|Q99N23|CAH15_MOUSE Carbonic anhydrase 15 OS=Mus musculus OX=10090 GN=Ca15 PE=1 SV=1,324,8ca.beta.45,90.6,6.399999999999999e-29,324.0,381.0
+sp|Q9C6F5|BCA6_ARATH,"sp|Q9C6F5|BCA6_ARATH Beta carbonic anhydrase 6, mitochondrial OS=Arabidopsis thaliana OX=3702 GN=BCA6 PE=2 SV=1",290,8ca.alpha.45,22.4,3e-08,290.0,349.0
+sp|Q9ERQ8|CAH7_MOUSE,sp|Q9ERQ8|CAH7_MOUSE Carbonic anhydrase 7 OS=Mus musculus OX=10090 GN=Ca7 PE=1 SV=2,264,8ca.beta.45,147.1,4.6e-46,264.0,381.0
+sp|Q9FM99|ATCA8_ARATH,sp|Q9FM99|ATCA8_ARATH Alpha carbonic anhydrase 8 OS=Arabidopsis thaliana OX=3702 GN=ACA8 PE=3 SV=3,389,8ca.beta.45,179.3,7.2999999999999995e-56,389.0,381.0
+sp|Q9FWR5|GCA1_ARATH,"sp|Q9FWR5|GCA1_ARATH Gamma carbonic anhydrase 1, mitochondrial OS=Arabidopsis thaliana OX=3702 GN=GAMMACA1 PE=1 SV=1",275,8ca.gamma.45,212.8,1.1e-66,275.0,185.0
+sp|Q9FYE3|ATCA3_ARATH,sp|Q9FYE3|ATCA3_ARATH Alpha carbonic anhydrase 3 OS=Arabidopsis thaliana OX=3702 GN=ACA3 PE=2 SV=1,277,8ca.beta.45,150.1,5.4e-47,277.0,381.0
+sp|Q9MZ30|CAH12_RABIT,sp|Q9MZ30|CAH12_RABIT Carbonic anhydrase 12 OS=Oryctolagus cuniculus OX=9986 GN=CA12 PE=2 SV=2,355,8ca.beta.45,113.2,8.999999999999999e-36,355.0,381.0
+sp|Q9NL38|MA66_PINMA,sp|Q9NL38|MA66_PINMA N66 matrix protein OS=Pinctada maxima OX=104660 PE=1 SV=1,568,8ca.beta.45,74.0,7.199999999999999e-24,568.0,381.0
+sp|Q9QZA0|CAH5B_MOUSE,"sp|Q9QZA0|CAH5B_MOUSE Carbonic anhydrase 5B, mitochondrial OS=Mus musculus OX=10090 GN=Ca5b PE=1 SV=2",317,8ca.beta.45,124.1,4.4e-39,317.0,381.0
+sp|S5FT07|CS2H1_ACITH,sp|S5FT07|CS2H1_ACITH Carbon disulfide hydrolase OS=Acidithiobacillus thiooxidans OX=930 GN=csh PE=1 SV=1,217,8ca.alpha.45,75.7,1.7999999999999997e-24,217.0,349.0
+tr|A0A022WC76|A0A022WC76_TRIRU,tr|A0A022WC76|A0A022WC76_TRIRU Carbonic anhydrase OS=Trichophyton rubrum CBS 288.86 OX=1215330 GN=H103_01593 PE=3 SV=1,292,8ca.alpha.45,25.4,3.7e-09,292.0,349.0
+tr|A0A022Y429|A0A022Y429_TRISD,tr|A0A022Y429|A0A022Y429_TRISD Carbonic anhydrase OS=Trichophyton soudanense CBS 452.61 OX=1215331 GN=H105_01596 PE=3 SV=1,292,8ca.alpha.45,25.4,3.7e-09,292.0,349.0
+tr|A0A045J8T7|A0A045J8T7_MYCTX,tr|A0A045J8T7|A0A045J8T7_MYCTX Carbonic anhydrase OS=Mycobacterium tuberculosis OX=1773 GN=cynT PE=3 SV=1,207,8ca.alpha.45,26.5,1.7e-09,207.0,349.0
+tr|A0A060W356|A0A060W356_ONCMY,tr|A0A060W356|A0A060W356_ONCMY Carbonic anhydrase OS=Oncorhynchus mykiss OX=8022 GN=ca4b PE=3 SV=1,304,8ca.beta.45,104.9,2.9e-33,304.0,381.0
+tr|A0A060X6S9|A0A060X6S9_ONCMY,tr|A0A060X6S9|A0A060X6S9_ONCMY Carbonic anhydrase OS=Oncorhynchus mykiss OX=8022 GN=ca4a PE=3 SV=1,307,8ca.beta.45,120.4,5.6e-38,307.0,381.0
+tr|A0A062WTM2|A0A062WTM2_9ACTN,tr|A0A062WTM2|A0A062WTM2_9ACTN carbonic anhydrase OS=Frankia sp. BMG5.23 OX=683305 GN=BMG523Draft_03319 PE=3 SV=1,872,NO_HIT,,,,
+tr|A0A067N124|A0A067N124_BOTB1,tr|A0A067N124|A0A067N124_BOTB1 Carbonic anhydrase OS=Botryobasidium botryosum (strain FD-172 SS1) OX=930990 GN=BOTBODRAFT_40399 PE=3 SV=1,320,8ca.alpha.45,26.9,1.2e-09,320.0,349.0
+tr|A0A072PCS1|A0A072PCS1_9EURO,tr|A0A072PCS1|A0A072PCS1_9EURO Carbonic anhydrase OS=Exophiala aquamarina CBS 119918 OX=1182545 GN=A1O9_05564 PE=3 SV=1,264,8ca.alpha.45,26.8,1.3e-09,264.0,349.0
+tr|A0A076N5F4|A0A076N5F4_AMYME,tr|A0A076N5F4|A0A076N5F4_AMYME carbonic anhydrase OS=Amycolatopsis methanolica 239 OX=1068978 GN=ychM PE=3 SV=1,767,8ca.alpha.45,15.3,4.4e-06,767.0,349.0
+tr|A0A078GF05|A0A078GF05_BRANA,tr|A0A078GF05|A0A078GF05_BRANA Carbonic anhydrase OS=Brassica napus OX=3708 GN=BnaC03g17150D PE=3 SV=1,272,8ca.beta.45,171.7,1.4e-53,272.0,381.0
+tr|A0A078HBW5|A0A078HBW5_BRANA,tr|A0A078HBW5|A0A078HBW5_BRANA DNA gyrase subunit B OS=Brassica napus OX=3708 GN=BnaA01g07750D PE=3 SV=1,997,8ca.beta.45,140.0,6.300000000000001e-44,997.0,381.0
+tr|A0A078JC34|A0A078JC34_BRANA,tr|A0A078JC34|A0A078JC34_BRANA DNA gyrase subunit B OS=Brassica napus OX=3708 GN=BnaAnng17740D PE=3 SV=1,997,8ca.beta.45,142.4,1.2e-44,997.0,381.0
+tr|A0A087Y8B6|A0A087Y8B6_POEFO,tr|A0A087Y8B6|A0A087Y8B6_POEFO Carbonic anhydrase 6 OS=Poecilia formosa OX=48698 PE=3 SV=1,539,8ca.beta.45,113.8,5.9999999999999996e-36,539.0,381.0
+tr|A0A091DTV4|A0A091DTV4_FUKDA,tr|A0A091DTV4|A0A091DTV4_FUKDA Carbonic anhydrase OS=Fukomys damarensis OX=885580 GN=H920_03017 PE=3 SV=1,565,8ca.beta.45,266.5,2.3999999999999998e-82,565.0,381.0
+tr|A0A094CRN1|A0A094CRN1_9PEZI,tr|A0A094CRN1|A0A094CRN1_9PEZI Carbonic anhydrase OS=Pseudogymnoascus sp. VKM F-4515 OX=1420909 GN=V496_09662 PE=3 SV=1,269,8ca.alpha.45,22.2,3.4e-08,269.0,349.0
+tr|A0A096MQ68|A0A096MQ68_PAPAN,tr|A0A096MQ68|A0A096MQ68_PAPAN Receptor-type tyrosine-protein phosphatase zeta OS=Papio anubis OX=9555 GN=PTPRZ1 PE=3 SV=3,2319,8ca.beta.45,92.2,2.1e-29,2319.0,381.0
+tr|A0A096MZB4|A0A096MZB4_PAPAN,tr|A0A096MZB4|A0A096MZB4_PAPAN Carbonic anhydrase OS=Papio anubis OX=9555 GN=CA1 PE=3 SV=3,326,8ca.beta.45,161.0,2.7e-50,326.0,381.0
+tr|A0A096NDF1|A0A096NDF1_PAPAN,tr|A0A096NDF1|A0A096NDF1_PAPAN Carbonic anhydrase OS=Papio anubis OX=9555 GN=CA2 PE=3 SV=2,316,8ca.beta.45,153.4,5.4e-48,316.0,381.0
+tr|A0A096P176|A0A096P176_PAPAN,tr|A0A096P176|A0A096P176_PAPAN Carbonic anhydrase OS=Papio anubis OX=9555 GN=CA9 PE=3 SV=3,447,8ca.beta.45,97.0,7.1e-31,447.0,381.0
+tr|A0A096P503|A0A096P503_PAPAN,tr|A0A096P503|A0A096P503_PAPAN Carbonic anhydrase OS=Papio anubis OX=9555 GN=CA4 PE=3 SV=2,417,8ca.beta.45,103.5,8.1e-33,417.0,381.0
+tr|A0A098LJ32|A0A098LJ32_9BACT,tr|A0A098LJ32|A0A098LJ32_9BACT Carbonic anhydrase 2 OS=Sporocytophaga myxococcoides OX=153721 GN=MYP_4226 PE=3 SV=1,665,8ca.alpha.45,16.4,2e-06,665.0,349.0
+tr|A0A099P142|A0A099P142_PICKU,tr|A0A099P142|A0A099P142_PICKU carbonic anhydrase OS=Pichia kudriavzevii OX=4909 GN=JL09_g2086 PE=3 SV=1,1199,8ca.alpha.45,47.0,9.8e-16,1199.0,349.0
+tr|A0A0A0VDH2|A0A0A0VDH2_CHEQU,tr|A0A0A0VDH2|A0A0A0VDH2_CHEQU Calreticulin OS=Cherax quadricarinatus OX=27406 GN=OTU49_002471 PE=2 SV=1,402,NO_HIT,,,,
+tr|A0A0A0VGS1|A0A0A0VGS1_CHEQU,tr|A0A0A0VGS1|A0A0A0VGS1_CHEQU Glyceraldehyde-3-phosphate dehydrogenase OS=Cherax quadricarinatus OX=27406 GN=GAPDH PE=2 SV=1,334,NO_HIT,,,,
+tr|A0A0A1V4J2|A0A0A1V4J2_9HYPO,tr|A0A0A1V4J2|A0A0A1V4J2_9HYPO Carbonic anhydrase OS=Metarhizium robertsii OX=568076 GN=X797_002133 PE=3 SV=1,329,8ca.alpha.45,20.9,8.4e-08,329.0,349.0
+tr|A0A0A2LGP4|A0A0A2LGP4_PENIT,tr|A0A0A2LGP4|A0A0A2LGP4_PENIT Carbonic anhydrase OS=Penicillium italicum OX=40296 GN=PITC_068390 PE=3 SV=1,298,8ca.alpha.45,18.6,4.3e-07,298.0,349.0
+tr|A0A0A8WW76|A0A0A8WW76_9BACT,tr|A0A0A8WW76|A0A0A8WW76_9BACT Carbonic anhydrase OS=Geobacter sp. OR-1 OX=1266765 GN=mtcA2 PE=3 SV=1,299,8ca.alpha.45,35.9,2.3e-12,299.0,349.0
+tr|A0A0A9YFG2|A0A0A9YFG2_LYGHE,tr|A0A0A9YFG2|A0A0A9YFG2_LYGHE Carbonic anhydrase OS=Lygus hesperus OX=30085 GN=Ca2_9 PE=3 SV=1,321,8ca.beta.45,93.2,1.0000000000000001e-29,321.0,381.0
+tr|A0A0A9YK01|A0A0A9YK01_LYGHE,tr|A0A0A9YK01|A0A0A9YK01_LYGHE Carbonic anhydrase OS=Lygus hesperus OX=30085 GN=Ca2_16 PE=3 SV=1,233,8ca.beta.45,84.1,6.2000000000000004e-27,233.0,381.0
+tr|A0A0B0N2A4|A0A0B0N2A4_GOSAR,tr|A0A0B0N2A4|A0A0B0N2A4_GOSAR Carbonic anhydrase OS=Gossypium arboreum OX=29729 GN=F383_31030 PE=3 SV=1,286,8ca.beta.45,172.9,6.5e-54,286.0,381.0
+tr|A0A0B0NRT9|A0A0B0NRT9_GOSAR,tr|A0A0B0NRT9|A0A0B0NRT9_GOSAR Carbonic anhydrase OS=Gossypium arboreum OX=29729 GN=F383_19992 PE=3 SV=1,289,8ca.beta.45,167.1,3.7e-52,289.0,381.0
+tr|A0A0B4GKE3|A0A0B4GKE3_METAF,tr|A0A0B4GKE3|A0A0B4GKE3_METAF Carbonic anhydrase (Fragment) OS=Metarhizium anisopliae (strain ARSEF 549) OX=3151832 GN=MAN_03625 PE=3 SV=1,327,8ca.alpha.45,20.9,8.3e-08,327.0,349.0
+tr|A0A0B4LGX6|A0A0B4LGX6_DROME,tr|A0A0B4LGX6|A0A0B4LGX6_DROME Carbonic anhydrase OS=Drosophila melanogaster OX=7227 GN=CAHbeta PE=3 SV=1,61,NO_HIT,,,,
+tr|A0A0C3CLP4|A0A0C3CLP4_HEBCY,tr|A0A0C3CLP4|A0A0C3CLP4_HEBCY Carbonic anhydrase OS=Hebeloma cylindrosporum OX=76867 GN=M413DRAFT_441689 PE=3 SV=1,306,8ca.alpha.45,13.8,1.2e-05,306.0,349.0
+tr|A0A0C4DQF6|A0A0C4DQF6_MAGP6,tr|A0A0C4DQF6|A0A0C4DQF6_MAGP6 Carbonic anhydrase OS=Magnaporthiopsis poae (strain ATCC 64411 / 73-15) OX=644358 GN=MAPG_02096 PE=3 SV=1,289,8ca.alpha.45,17.2,1.1e-06,289.0,349.0
+tr|A0A0D1YBB6|A0A0D1YBB6_EXOME,tr|A0A0D1YBB6|A0A0D1YBB6_EXOME Carbonic anhydrase OS=Exophiala mesophila OX=212818 GN=PV10_01622 PE=3 SV=1,342,8ca.alpha.45,24.1,8.7e-09,342.0,349.0
+tr|A0A0D2EXR4|A0A0D2EXR4_CLAB1,tr|A0A0D2EXR4|A0A0D2EXR4_CLAB1 Carbonic anhydrase OS=Cladophialophora bantiana (strain ATCC 10958 / CDC1940 / 8579 / CBS 173.52) OX=1442370 GN=Z519_04758 PE=3 SV=1,250,8ca.alpha.45,21.9,4.2e-08,250.0,349.0
+tr|A0A0D2MFK3|A0A0D2MFK3_GOSRA,tr|A0A0D2MFK3|A0A0D2MFK3_GOSRA Carbonic anhydrase OS=Gossypium raimondii OX=29730 GN=B456_002G246000 PE=3 SV=1,324,8ca.beta.45,173.4,4.6e-54,324.0,381.0
+tr|A0A0D2TN66|A0A0D2TN66_GOSRA,tr|A0A0D2TN66|A0A0D2TN66_GOSRA Carbonic anhydrase OS=Gossypium raimondii OX=29730 GN=B456_009G109100 PE=3 SV=1,274,8ca.beta.45,160.7,3.2e-50,274.0,381.0
+tr|A0A0D2XRW0|A0A0D2XRW0_FUSOF,tr|A0A0D2XRW0|A0A0D2XRW0_FUSOF Carbonic anhydrase OS=Fusarium oxysporum (strain Fo5176) OX=660025 GN=28948420 PE=3 SV=1,222,8ca.alpha.45,24.5,6.7e-09,222.0,349.0
+tr|A0A0D3B4B0|A0A0D3B4B0_BRAOL,tr|A0A0D3B4B0|A0A0D3B4B0_BRAOL Carbonic anhydrase OS=Brassica oleracea var. oleracea OX=109376 PE=3 SV=1,272,8ca.beta.45,171.7,1.4e-53,272.0,381.0
+tr|A0A0D8BJC8|A0A0D8BJC8_9ACTN,tr|A0A0D8BJC8|A0A0D8BJC8_9ACTN carbonic anhydrase OS=Frankia torreyi OX=1856 GN=FF36_02218 PE=3 SV=1,892,NO_HIT,,,,
+tr|A0A0D9QX60|A0A0D9QX60_CHLSB,tr|A0A0D9QX60|A0A0D9QX60_CHLSB Carbonic anhydrase OS=Chlorocebus sabaeus OX=60711 GN=CA7 PE=3 SV=1,264,8ca.beta.45,151.3,2.4e-47,264.0,381.0
+tr|A0A0D9R122|A0A0D9R122_CHLSB,tr|A0A0D9R122|A0A0D9R122_CHLSB Carbonic anhydrase OS=Chlorocebus sabaeus OX=60711 GN=CA4 PE=3 SV=1,312,8ca.beta.45,105.5,2e-33,312.0,381.0
+tr|A0A0D9RDE4|A0A0D9RDE4_CHLSB,tr|A0A0D9RDE4|A0A0D9RDE4_CHLSB Carbonic anhydrase OS=Chlorocebus sabaeus OX=60711 GN=CA9 PE=3 SV=1,467,8ca.beta.45,97.5,5.2e-31,467.0,381.0
+tr|A0A0D9RHZ7|A0A0D9RHZ7_CHLSB,tr|A0A0D9RHZ7|A0A0D9RHZ7_CHLSB Receptor-type tyrosine-protein phosphatase gamma OS=Chlorocebus sabaeus OX=60711 GN=PTPRG PE=3 SV=1,1329,8ca.beta.45,64.2,6.7e-21,1329.0,381.0
+tr|A0A0D9RL35|A0A0D9RL35_CHLSB,tr|A0A0D9RL35|A0A0D9RL35_CHLSB Carbonic anhydrase OS=Chlorocebus sabaeus OX=60711 GN=CA2 PE=3 SV=1,260,8ca.beta.45,149.4,9e-47,260.0,381.0
+tr|A0A0D9RL40|A0A0D9RL40_CHLSB,tr|A0A0D9RL40|A0A0D9RL40_CHLSB Carbonic anhydrase OS=Chlorocebus sabaeus OX=60711 GN=CA3 PE=3 SV=1,260,8ca.beta.45,135.2,1.9e-42,260.0,381.0
+tr|A0A0D9RL45|A0A0D9RL45_CHLSB,tr|A0A0D9RL45|A0A0D9RL45_CHLSB Carbonic anhydrase OS=Chlorocebus sabaeus OX=60711 GN=CA1 PE=3 SV=1,261,8ca.beta.45,153.4,5.5e-48,261.0,381.0
+tr|A0A0D9S8Q5|A0A0D9S8Q5_CHLSB,tr|A0A0D9S8Q5|A0A0D9S8Q5_CHLSB Carbonic anhydrase OS=Chlorocebus sabaeus OX=60711 GN=CA6 PE=3 SV=1,336,8ca.beta.45,113.3,8.3e-36,336.0,381.0
+tr|A0A0E8TWC7|A0A0E8TWC7_MYCTX,tr|A0A0E8TWC7|A0A0E8TWC7_MYCTX carbonic anhydrase OS=Mycobacterium tuberculosis OX=1773 GN=ychM_1 PE=3 SV=1,756,8ca.alpha.45,19.1,2.9e-07,756.0,349.0
+tr|A0A0F4YV47|A0A0F4YV47_TALEM,tr|A0A0F4YV47|A0A0F4YV47_TALEM Carbonic anhydrase OS=Rasamsonia emersonii CBS 393.64 OX=1408163 GN=T310_4227 PE=3 SV=1,269,8ca.alpha.45,24.2,8.3e-09,269.0,349.0
+tr|A0A0F7G7L3|A0A0F7G7L3_CHEQU,tr|A0A0F7G7L3|A0A0F7G7L3_CHEQU Sodium/potassium-transporting ATPase subunit alpha OS=Cherax quadricarinatus OX=27406 GN=OTU49_001967 PE=2 SV=1,1038,NO_HIT,,,,
+tr|A0A0F9XP45|A0A0F9XP45_TRIHA,tr|A0A0F9XP45|A0A0F9XP45_TRIHA Carbonic anhydrase OS=Trichoderma harzianum OX=5544 GN=THAR02_01404 PE=3 SV=1,293,8ca.alpha.45,18.5,4.4e-07,293.0,349.0
+tr|A0A0G2K561|A0A0G2K561_RAT,tr|A0A0G2K561|A0A0G2K561_RAT Receptor-type tyrosine-protein phosphatase gamma OS=Rattus norvegicus OX=10116 GN=Ptprg PE=1 SV=2,1341,8ca.beta.45,71.4,4.5000000000000003e-23,1341.0,381.0
+tr|A0A0G4GJE8|A0A0G4GJE8_9ALVE,tr|A0A0G4GJE8|A0A0G4GJE8_9ALVE Carbonic anhydrase OS=Chromera velia CCMP2878 OX=1169474 GN=Cvel_22163 PE=3 SV=1,314,8ca.alpha.45,12.5,3e-05,314.0,349.0
+tr|A0A0G4LPK9|A0A0G4LPK9_VERLO,tr|A0A0G4LPK9|A0A0G4LPK9_VERLO carbonic anhydrase OS=Verticillium longisporum OX=100787 GN=BN1723_003116 PE=3 SV=1,593,8ca.alpha.45,18.1,6e-07,593.0,349.0
+tr|A0A0G4LRL2|A0A0G4LRL2_VERLO,tr|A0A0G4LRL2|A0A0G4LRL2_VERLO Carbonic anhydrase (Fragment) OS=Verticillium longisporum OX=100787 GN=BN1708_013033 PE=3 SV=1,321,8ca.alpha.45,16.2,2.2e-06,321.0,349.0
+tr|A0A0H2UHB3|A0A0H2UHB3_RAT,tr|A0A0H2UHB3|A0A0H2UHB3_RAT Carbonic anhydrase OS=Rattus norvegicus OX=10116 GN=Car4 PE=1 SV=1,314,8ca.beta.45,107.5,4.7e-34,314.0,381.0
+tr|A0A0H3EA44|A0A0H3EA44_BIFBP,tr|A0A0H3EA44|A0A0H3EA44_BIFBP Carbonic anhydrase OS=Bifidobacterium bifidum (strain PRL2010) OX=702459 GN=icfA PE=3 SV=1,227,8ca.alpha.45,25.0,4.8e-09,227.0,349.0
+tr|A0A0H5C5I8|A0A0H5C5I8_CYBJN,tr|A0A0H5C5I8|A0A0H5C5I8_CYBJN Carbonic anhydrase OS=Cyberlindnera jadinii (strain ATCC 18201 / CBS 1600 / BCRC 20928 / JCM 3617 / NBRC 0987 / NRRL Y-1542) OX=983966 GN=NCE3 PE=3 SV=1,237,8ca.alpha.45,20.3,1.2e-07,237.0,349.0
+tr|A0A0H5NF89|A0A0H5NF89_NOCFR,tr|A0A0H5NF89|A0A0H5NF89_NOCFR carbonic anhydrase OS=Nocardia farcinica OX=37329 GN=ychM_1 PE=3 SV=1,748,8ca.alpha.45,12.7,2.7e-05,748.0,349.0
+tr|A0A0J0XX05|A0A0J0XX05_9TREE,tr|A0A0J0XX05|A0A0J0XX05_9TREE Carbonic anhydrase OS=Cutaneotrichosporon oleaginosum OX=879819 GN=CC85DRAFT_282219 PE=3 SV=1,266,8ca.alpha.45,20.2,1.4e-07,266.0,349.0
+tr|A0A0K1JII8|A0A0K1JII8_9MICO,tr|A0A0K1JII8|A0A0K1JII8_9MICO carbonic anhydrase OS=Luteipulveratus mongoliensis OX=571913 GN=VV02_12795 PE=3 SV=1,742,8ca.alpha.45,18.6,4.2e-07,742.0,349.0
+tr|A0A0L0N001|A0A0L0N001_TOLOC,tr|A0A0L0N001|A0A0L0N001_TOLOC Carbonic anhydrase OS=Tolypocladium ophioglossoides (strain CBS 100239) OX=1163406 GN=TOPH_08297 PE=3 SV=1,285,8ca.alpha.45,21.0,7.7e-08,285.0,349.0
+tr|A0A0L0P1W2|A0A0L0P1W2_CANAR,tr|A0A0L0P1W2|A0A0L0P1W2_CANAR Carbonic anhydrase OS=Candidozyma auris OX=498019 GN=QG37_02400 PE=3 SV=1,269,8ca.alpha.45,12.7,2.6e-05,269.0,349.0
+tr|A0A0M2HDZ3|A0A0M2HDZ3_MICTR,tr|A0A0M2HDZ3|A0A0M2HDZ3_MICTR Carbonic anhydrase OS=Microbacterium trichothecenolyticum OX=69370 GN=mtcA2 PE=3 SV=1,216,8ca.alpha.45,23.3,1.6e-08,216.0,349.0
+tr|A0A0M4Q843|A0A0M4Q843_9PSEU,tr|A0A0M4Q843|A0A0M4Q843_9PSEU carbonic anhydrase OS=Pseudonocardia sp. HH130629-09 OX=1641402 GN=XF36_15605 PE=3 SV=1,772,NO_HIT,,,,
+tr|A0A0M4QQK6|A0A0M4QQK6_9PSEU,tr|A0A0M4QQK6|A0A0M4QQK6_9PSEU carbonic anhydrase OS=Pseudonocardia sp. AL041005-10 OX=445576 GN=WY02_27325 PE=3 SV=1,750,NO_HIT,,,,
+tr|A0A0M8XQE3|A0A0M8XQE3_9ACTN,tr|A0A0M8XQE3|A0A0M8XQE3_9ACTN carbonic anhydrase OS=Nocardiopsis sp. NRRL B-16309 OX=1519494 GN=ADL05_26510 PE=3 SV=1,789,8ca.alpha.45,16.8,1.5e-06,789.0,349.0
+tr|A0A0M8YDZ0|A0A0M8YDZ0_9PSEU,tr|A0A0M8YDZ0|A0A0M8YDZ0_9PSEU Carbonic anhydrase OS=Saccharothrix sp. NRRL B-16348 OX=1415542 GN=ADK67_18190 PE=3 SV=1,234,8ca.alpha.45,23.1,1.8e-08,234.0,349.0
+tr|A0A0M9EVQ9|A0A0M9EVQ9_FUSLA,tr|A0A0M9EVQ9|A0A0M9EVQ9_FUSLA Carbonic anhydrase OS=Fusarium langsethiae OX=179993 GN=FLAG1_06237 PE=3 SV=1,298,8ca.alpha.45,20.3,1.3e-07,298.0,349.0
+tr|A0A0N8WJI8|A0A0N8WJI8_9ACTN,tr|A0A0N8WJI8|A0A0N8WJI8_9ACTN carbonic anhydrase OS=Frankia sp. ACN1ag OX=102891 GN=UK82_01505 PE=3 SV=1,846,NO_HIT,,,,
+tr|A0A0P0S939|A0A0P0S939_9PSEU,tr|A0A0P0S939|A0A0P0S939_9PSEU carbonic anhydrase OS=Pseudonocardia sp. EC080619-01 OX=1096856 GN=AD017_02690 PE=3 SV=1,769,NO_HIT,,,,
+tr|A0A0P6IYD3|A0A0P6IYD3_HETGA,tr|A0A0P6IYD3|A0A0P6IYD3_HETGA Carbonic anhydrase OS=Heterocephalus glaber OX=10181 GN=CA2 PE=3 SV=1,260,8ca.beta.45,150.0,5.999999999999999e-47,260.0,381.0
+tr|A0A0R4J0W4|A0A0R4J0W4_MOUSE,tr|A0A0R4J0W4|A0A0R4J0W4_MOUSE Carbonic anhydrase OS=Mus musculus OX=10090 GN=Car12 PE=1 SV=1,354,8ca.beta.45,123.5,6.6e-39,354.0,381.0
+tr|A0A0S2Z3D0|A0A0S2Z3D0_HUMAN,tr|A0A0S2Z3D0|A0A0S2Z3D0_HUMAN Carbonic anhydrase (Fragment) OS=Homo sapiens OX=9606 GN=CA9 PE=2 SV=1,459,8ca.beta.45,93.3,1.0000000000000001e-29,459.0,381.0
+tr|A0A0S4QGJ6|A0A0S4QGJ6_9ACTN,tr|A0A0S4QGJ6|A0A0S4QGJ6_9ACTN carbonic anhydrase OS=Parafrankia irregularis OX=795642 GN=Ga0074812_101378 PE=3 SV=1,868,NO_HIT,,,,
+tr|A0A0T9VAG7|A0A0T9VAG7_MYCTX,tr|A0A0T9VAG7|A0A0T9VAG7_MYCTX carbonic anhydrase OS=Mycobacterium tuberculosis OX=1773 GN=ychM_1 PE=3 SV=1,756,8ca.alpha.45,19.1,2.9e-07,756.0,349.0
+tr|A0A0W7VQC8|A0A0W7VQC8_9HYPO,tr|A0A0W7VQC8|A0A0W7VQC8_9HYPO Carbonic anhydrase OS=Trichoderma gamsii OX=398673 GN=TGAMA5MH_04222 PE=3 SV=1,288,8ca.alpha.45,19.8,1.9e-07,288.0,349.0
+tr|A0A100IRY8|A0A100IRY8_ASPNG,tr|A0A100IRY8|A0A100IRY8_ASPNG Carbonic anhydrase OS=Aspergillus niger OX=5061 GN=ABL_08905 PE=3 SV=1,243,8ca.alpha.45,12.9,2.2e-05,243.0,349.0
+tr|A0A117DXQ5|A0A117DXQ5_ASPNG,tr|A0A117DXQ5|A0A117DXQ5_ASPNG Carbonic anhydrase OS=Aspergillus niger OX=5061 GN=ABL_01275 PE=3 SV=1,607,8ca.beta.45,113.9,5.5000000000000005e-36,607.0,381.0
+tr|A0A136IVJ9|A0A136IVJ9_9PEZI,tr|A0A136IVJ9|A0A136IVJ9_9PEZI Carbonic anhydrase OS=Microdochium bolleyi OX=196109 GN=Micbo1qcDRAFT_165845 PE=3 SV=1,306,8ca.alpha.45,17.4,1e-06,306.0,349.0
+tr|A0A146PJU9|A0A146PJU9_FUNHE,tr|A0A146PJU9|A0A146PJU9_FUNHE Carbonic anhydrase 6 OS=Fundulus heteroclitus OX=8078 PE=3 SV=1,533,8ca.beta.45,109.7,1.0000000000000001e-34,533.0,381.0
+tr|A0A147KIC2|A0A147KIC2_THECS,tr|A0A147KIC2|A0A147KIC2_THECS carbonic anhydrase OS=Thermobifida cellulosilytica TB100 OX=665004 GN=AC529_09055 PE=3 SV=1,773,8ca.alpha.45,18.9,3.4e-07,773.0,349.0
+tr|A0A151GMI7|A0A151GMI7_DRECN,tr|A0A151GMI7|A0A151GMI7_DRECN Carbonic anhydrase OS=Drechmeria coniospora OX=98403 GN=DCS_05336 PE=3 SV=1,338,8ca.alpha.45,22.6,2.5e-08,338.0,349.0
+tr|A0A151N5U6|A0A151N5U6_ALLMI,tr|A0A151N5U6|A0A151N5U6_ALLMI Carbonic anhydrase OS=Alligator mississippiensis OX=8496 GN=CA4 PE=3 SV=1,317,8ca.beta.45,122.0,1.8e-38,317.0,381.0
+tr|A0A161VZB3|A0A161VZB3_9PEZI,tr|A0A161VZB3|A0A161VZB3_9PEZI Carbonic anhydrase OS=Colletotrichum incanum OX=1573173 GN=CI238_00610 PE=3 SV=1,281,8ca.alpha.45,18.7,3.9e-07,281.0,349.0
+tr|A0A162I105|A0A162I105_9EURO,tr|A0A162I105|A0A162I105_9EURO Carbonic anhydrase OS=Ascosphaera apis ARSEF 7405 OX=392613 GN=AAP_05777 PE=3 SV=1,254,8ca.alpha.45,29.0,2.8e-10,254.0,349.0
+tr|A0A162JQL4|A0A162JQL4_METRR,tr|A0A162JQL4|A0A162JQL4_METRR Carbonic anhydrase OS=Metarhizium rileyi (strain RCEF 4871) OX=1649241 GN=NOR_03442 PE=3 SV=1,323,8ca.alpha.45,21.7,5e-08,323.0,349.0
+tr|A0A162PYV0|A0A162PYV0_9PEZI,tr|A0A162PYV0|A0A162PYV0_9PEZI Carbonic anhydrase (Fragment) OS=Colletotrichum incanum OX=1573173 GN=CI238_06909 PE=3 SV=1,340,8ca.alpha.45,21.2,6.6e-08,340.0,349.0
+tr|A0A166P2P1|A0A166P2P1_9PEZI,tr|A0A166P2P1|A0A166P2P1_9PEZI Carbonic anhydrase OS=Colletotrichum tofieldiae OX=708197 GN=CT0861_10407 PE=3 SV=1,281,8ca.alpha.45,18.5,4.5e-07,281.0,349.0
+tr|A0A166SV71|A0A166SV71_9ACTN,tr|A0A166SV71|A0A166SV71_9ACTN carbonic anhydrase OS=Frankia sp. EI5c OX=683316 GN=UG55_1005286 PE=3 SV=1,931,NO_HIT,,,,
+tr|A0A167R9K7|A0A167R9K7_PENCH,tr|A0A167R9K7|A0A167R9K7_PENCH Carbonic anhydrase OS=Penicillium chrysogenum OX=5076 GN=EN45_099170 PE=3 SV=1,249,8ca.alpha.45,19.0,3.3e-07,249.0,349.0
+tr|A0A171C5R8|A0A171C5R8_9ACTN,tr|A0A171C5R8|A0A171C5R8_9ACTN carbonic anhydrase OS=Planomonospora sphaerica OX=161355 GN=PS9374_01802 PE=3 SV=1,791,NO_HIT,,,,
+tr|A0A178CIL3|A0A178CIL3_9EURO,tr|A0A178CIL3|A0A178CIL3_9EURO Carbonic anhydrase OS=Fonsecaea nubica OX=856822 GN=AYO20_09003 PE=3 SV=1,287,8ca.alpha.45,22.1,3.5e-08,287.0,349.0
+tr|A0A179FYM5|A0A179FYM5_METCM,tr|A0A179FYM5|A0A179FYM5_METCM Carbonic anhydrase OS=Pochonia chlamydosporia 170 OX=1380566 GN=VFPPC_03178 PE=3 SV=1,339,8ca.alpha.45,21.3,6.4e-08,339.0,349.0
+tr|A0A179GSI7|A0A179GSI7_PURLI,tr|A0A179GSI7|A0A179GSI7_PURLI Carbonic anhydrase OS=Purpureocillium lilacinum OX=33203 GN=VFPBJ_09240 PE=3 SV=1,237,8ca.alpha.45,21.9,4.3e-08,237.0,349.0
+tr|A0A193C3W5|A0A193C3W5_AMYOR,tr|A0A193C3W5|A0A193C3W5_AMYOR carbonic anhydrase OS=Amycolatopsis orientalis OX=31958 GN=SD37_27890 PE=3 SV=1,752,8ca.alpha.45,18.9,3.3e-07,752.0,349.0
+tr|A0A194W099|A0A194W099_CYTMA,tr|A0A194W099|A0A194W099_CYTMA Carbonic anhydrase OS=Cytospora mali OX=578113 GN=VM1G_05208 PE=3 SV=1,257,8ca.alpha.45,18.5,4.4e-07,257.0,349.0
+tr|A0A1A0JA85|A0A1A0JA85_9NOCA,tr|A0A1A0JA85|A0A1A0JA85_9NOCA carbonic anhydrase OS=Nocardia sp. 852002-20019_SCH5090214 OX=1834087 GN=A5780_35765 PE=3 SV=1,746,8ca.alpha.45,17.0,1.3e-06,746.0,349.0
+tr|A0A1A0MCH3|A0A1A0MCH3_9MYCO,tr|A0A1A0MCH3|A0A1A0MCH3_9MYCO carbonic anhydrase OS=Mycobacterium sp. 1164966.3 OX=1856861 GN=A9W99_08885 PE=3 SV=1,733,8ca.alpha.45,18.1,6.1e-07,733.0,349.0
+tr|A0A1A2CWQ2|A0A1A2CWQ2_9MYCO,tr|A0A1A2CWQ2|A0A1A2CWQ2_9MYCO carbonic anhydrase OS=Mycobacterium sp. 852002-51163_SCH5372311 OX=1834097 GN=A5791_24560 PE=3 SV=1,759,8ca.alpha.45,18.2,5.5e-07,759.0,349.0
+tr|A0A1A3CFJ4|A0A1A3CFJ4_MYCAS,tr|A0A1A3CFJ4|A0A1A3CFJ4_MYCAS carbonic anhydrase OS=Mycobacterium asiaticum OX=1790 GN=A9X01_18215 PE=3 SV=1,752,8ca.alpha.45,17.3,1e-06,752.0,349.0
+tr|A0A1A3HKT8|A0A1A3HKT8_9MYCO,tr|A0A1A3HKT8|A0A1A3HKT8_9MYCO carbonic anhydrase OS=Mycobacterium sp. 1423905.2 OX=1856859 GN=A9W95_03605 PE=3 SV=1,751,8ca.alpha.45,25.5,3.3e-09,751.0,349.0
+tr|A0A1A3KPA7|A0A1A3KPA7_MYCAS,tr|A0A1A3KPA7|A0A1A3KPA7_MYCAS carbonic anhydrase OS=Mycobacterium asiaticum OX=1790 GN=A5640_00900 PE=3 SV=1,750,8ca.alpha.45,18.0,6.6e-07,750.0,349.0
+tr|A0A1A3N8B5|A0A1A3N8B5_MYCAS,tr|A0A1A3N8B5|A0A1A3N8B5_MYCAS carbonic anhydrase OS=Mycobacterium asiaticum OX=1790 GN=A5635_05230 PE=3 SV=1,749,8ca.alpha.45,17.7,8.1e-07,749.0,349.0
+tr|A0A1A3NBR8|A0A1A3NBR8_MYCAS,tr|A0A1A3NBR8|A0A1A3NBR8_MYCAS carbonic anhydrase OS=Mycobacterium asiaticum OX=1790 GN=A5636_17775 PE=3 SV=1,767,8ca.alpha.45,20.3,1.3e-07,767.0,349.0
+tr|A0A1A3NGR0|A0A1A3NGR0_MYCAS,tr|A0A1A3NGR0|A0A1A3NGR0_MYCAS carbonic anhydrase OS=Mycobacterium asiaticum OX=1790 GN=A5634_12400 PE=3 SV=1,764,8ca.alpha.45,24.7,5.8e-09,764.0,349.0
+tr|A0A1A6BCL4|A0A1A6BCL4_MYCGO,tr|A0A1A6BCL4|A0A1A6BCL4_MYCGO carbonic anhydrase OS=Mycobacterium gordonae OX=1778 GN=A9W98_26875 PE=3 SV=1,742,8ca.alpha.45,24.3,8e-09,742.0,349.0
+tr|A0A1A6FYV2|A0A1A6FYV2_NEOLE,tr|A0A1A6FYV2|A0A1A6FYV2_NEOLE Carbonic anhydrase 2 OS=Neotoma lepida OX=56216 GN=A6R68_09779 PE=3 SV=1,152,8ca.beta.45,49.4,2.2e-16,152.0,381.0
+tr|A0A1A7WAT4|A0A1A7WAT4_9TELE,tr|A0A1A7WAT4|A0A1A7WAT4_9TELE Carbonic anhydrase (Fragment) OS=Iconisemion striatum OX=60296 GN=CA4A PE=3 SV=1,338,8ca.beta.45,119.4,1.2e-37,338.0,381.0
+tr|A0A1A7YMD7|A0A1A7YMD7_9TELE,tr|A0A1A7YMD7|A0A1A7YMD7_9TELE Carbonic anhydrase OS=Iconisemion striatum OX=60296 GN=CA4A PE=3 SV=1,307,8ca.beta.45,119.9,8e-38,307.0,381.0
+tr|A0A1A8DSM8|A0A1A8DSM8_NOTKA,tr|A0A1A8DSM8|A0A1A8DSM8_NOTKA Carbonic anhydrase OS=Nothobranchius kadleci OX=1051664 GN=CA4A PE=3 SV=1,304,8ca.beta.45,120.7,4.7000000000000005e-38,304.0,381.0
+tr|A0A1A8FEF6|A0A1A8FEF6_9TELE,tr|A0A1A8FEF6|A0A1A8FEF6_9TELE Carbonic anhydrase OS=Nothobranchius korthausae OX=1143690 GN=CA4A PE=3 SV=1,304,8ca.beta.45,120.3,6.300000000000001e-38,304.0,381.0
+tr|A0A1A8KF43|A0A1A8KF43_NOTKU,tr|A0A1A8KF43|A0A1A8KF43_NOTKU Carbonic anhydrase OS=Nothobranchius kuhntae OX=321403 GN=CA4A PE=3 SV=1,304,8ca.beta.45,120.9,4e-38,304.0,381.0
+tr|A0A1A8QHL5|A0A1A8QHL5_9TELE,tr|A0A1A8QHL5|A0A1A8QHL5_9TELE Carbonic anhydrase OS=Nothobranchius rachovii OX=451742 GN=CA4A PE=3 SV=1,304,8ca.beta.45,121.2,3.4e-38,304.0,381.0
+tr|A0A1A8R3P9|A0A1A8R3P9_9TELE,tr|A0A1A8R3P9|A0A1A8R3P9_9TELE Carbonic anhydrase OS=Nothobranchius pienaari OX=704102 GN=CA4A PE=3 SV=1,304,8ca.beta.45,122.4,1.4e-38,304.0,381.0
+tr|A0A1A8VDB8|A0A1A8VDB8_NOTFU,tr|A0A1A8VDB8|A0A1A8VDB8_NOTFU Carbonic anhydrase 6 OS=Nothobranchius furzeri OX=105023 GN=CA6 PE=3 SV=1,537,8ca.beta.45,111.3,3.3999999999999997e-35,537.0,381.0
+tr|A0A1A8VDZ3|A0A1A8VDZ3_NOTFU,tr|A0A1A8VDZ3|A0A1A8VDZ3_NOTFU Carbonic anhydrase OS=Nothobranchius furzeri OX=105023 GN=CA4A PE=3 SV=1,304,8ca.beta.45,120.7,4.7000000000000005e-38,304.0,381.0
+tr|A0A1B1LZI1|A0A1B1LZI1_DANRE,tr|A0A1B1LZI1|A0A1B1LZI1_DANRE protein-tyrosine-phosphatase OS=Danio rerio OX=7955 GN=ptprga PE=2 SV=1,1414,8ca.beta.45,92.7,1.4999999999999998e-29,1414.0,381.0
+tr|A0A1B1ZH54|A0A1B1ZH54_9PSEU,tr|A0A1B1ZH54|A0A1B1ZH54_9PSEU carbonic anhydrase OS=Pseudonocardia sp. HH130630-07 OX=1690815 GN=AFB00_00620 PE=3 SV=1,771,NO_HIT,,,,
+tr|A0A1B2JIJ8|A0A1B2JIJ8_PICPA,tr|A0A1B2JIJ8|A0A1B2JIJ8_PICPA Carbonic anhydrase OS=Komagataella pastoris OX=4922 GN=NCE103 PE=3 SV=1,339,8ca.alpha.45,15.6,3.4e-06,339.0,349.0
+tr|A0A1B7YQX6|A0A1B7YQX6_COLHI,tr|A0A1B7YQX6|A0A1B7YQX6_COLHI Carbonic anhydrase OS=Colletotrichum higginsianum (strain IMI 349063) OX=759273 GN=CH63R_03167 PE=3 SV=1,263,8ca.alpha.45,18.4,4.9e-07,263.0,349.0
+tr|A0A1C3ZHQ4|A0A1C3ZHQ4_RHOSG,tr|A0A1C3ZHQ4|A0A1C3ZHQ4_RHOSG carbonic anhydrase OS=Rhodococcus qingshengii OX=334542 GN=CHR55_29335 PE=3 SV=1,758,8ca.alpha.45,17.2,1.1e-06,758.0,349.0
+tr|A0A1D5QB60|A0A1D5QB60_MACMU,tr|A0A1D5QB60|A0A1D5QB60_MACMU Carbonic anhydrase OS=Macaca mulatta OX=9544 GN=CA13 PE=3 SV=1,262,8ca.beta.45,127.1,5.3e-40,262.0,381.0
+tr|A0A1F5LFY8|A0A1F5LFY8_9EURO,tr|A0A1F5LFY8|A0A1F5LFY8_9EURO Carbonic anhydrase OS=Penicillium arizonense OX=1835702 GN=PENARI_c011G03694 PE=3 SV=1,294,8ca.alpha.45,18.4,4.9e-07,294.0,349.0
+tr|A0A1F8ZM37|A0A1F8ZM37_9DELT,tr|A0A1F8ZM37|A0A1F8ZM37_9DELT Carbonic anhydrase OS=Deltaproteobacteria bacterium GWF2_42_12 OX=1797824 GN=A2022_02750 PE=3 SV=1,253,8ca.alpha.45,24.3,8e-09,253.0,349.0
+tr|A0A1H0D1M2|A0A1H0D1M2_ALLAB,tr|A0A1H0D1M2|A0A1H0D1M2_ALLAB carbonic anhydrase OS=Allokutzneria albata OX=211114 GN=SAMN04489726_7539 PE=3 SV=1,776,8ca.alpha.45,13.4,1.6e-05,776.0,349.0
+tr|A0A1H3JPX2|A0A1H3JPX2_9ACTN,tr|A0A1H3JPX2|A0A1H3JPX2_9ACTN Anthranilate phosphoribosyltransferase OS=Modestobacter sp. DSM 44400 OX=1550230 GN=trpD PE=3 SV=1,352,NO_HIT,,,,
+tr|A0A1H8WXC3|A0A1H8WXC3_9PSEU,tr|A0A1H8WXC3|A0A1H8WXC3_9PSEU carbonic anhydrase OS=Amycolatopsis saalfeldensis OX=394193 GN=SAMN04489732_10613 PE=3 SV=1,728,8ca.alpha.45,20.7,9.4e-08,728.0,349.0
+tr|A0A1I4CHA3|A0A1I4CHA3_9PSEU,tr|A0A1I4CHA3|A0A1I4CHA3_9PSEU carbonic anhydrase OS=Amycolatopsis sacchari OX=115433 GN=SAMN05421835_1356 PE=3 SV=1,781,8ca.alpha.45,10.6,0.00012,781.0,349.0
+tr|A0A1I9LQB3|A0A1I9LQB3_ARATH,tr|A0A1I9LQB3|A0A1I9LQB3_ARATH Carbonic anhydrase OS=Arabidopsis thaliana OX=3702 GN=CA1 PE=1 SV=1,259,8ca.alpha.45,16.1,2.4e-06,259.0,349.0
+tr|A0A1L3IZL1|A0A1L3IZL1_9POXV,tr|A0A1L3IZL1|A0A1L3IZL1_9POXV Cell surface-binding protein OPG105 OS=BeAn 58058 virus OX=67082 GN=BAV00122 PE=3 SV=1,324,8ca.beta.45,61.2,5.6e-20,324.0,381.0
+tr|A0A1L9NLG5|A0A1L9NLG5_ASPTC,tr|A0A1L9NLG5|A0A1L9NLG5_ASPTC Carbonic anhydrase OS=Aspergillus tubingensis (strain CBS 134.48) OX=767770 GN=ASPTUDRAFT_113893 PE=3 SV=1,243,8ca.alpha.45,13.3,1.7e-05,243.0,349.0
+tr|A0A1L9S0B5|A0A1L9S0B5_ASPWE,tr|A0A1L9S0B5|A0A1L9S0B5_ASPWE Carbonic anhydrase OS=Aspergillus wentii DTO 134E9 OX=1073089 GN=ASPWEDRAFT_34041 PE=3 SV=1,262,8ca.alpha.45,25.0,4.9e-09,262.0,349.0
+tr|A0A1L9UD93|A0A1L9UD93_ASPBC,tr|A0A1L9UD93|A0A1L9UD93_ASPBC Carbonic anhydrase OS=Aspergillus brasiliensis (strain CBS 101740 / IMI 381727 / IBT 21946) OX=767769 GN=ASPBRDRAFT_131418 PE=3 SV=1,275,8ca.alpha.45,22.2,3.5e-08,275.0,349.0
+tr|A0A1M4EFV7|A0A1M4EFV7_9ACTN,tr|A0A1M4EFV7|A0A1M4EFV7_9ACTN carbonic anhydrase OS=Nonomuraea gerenzanensis OX=93944 GN=BN4615_P7397 PE=3 SV=1,736,NO_HIT,,,,
+tr|A0A1M5AKF0|A0A1M5AKF0_STRHI,tr|A0A1M5AKF0|A0A1M5AKF0_STRHI carbonic anhydrase OS=Streptoalloteichus hindustanus OX=2017 GN=SAMN05444320_103158 PE=3 SV=1,782,8ca.alpha.45,21.5,5.5e-08,782.0,349.0
+tr|A0A1Q4X6A5|A0A1Q4X6A5_9ACTN,tr|A0A1Q4X6A5|A0A1Q4X6A5_9ACTN carbonic anhydrase OS=Nocardiopsis sp. TSRI0078 OX=1718951 GN=A6A08_25040 PE=3 SV=1,789,8ca.alpha.45,17.6,8.2e-07,789.0,349.0
+tr|A0A1Q5UMN2|A0A1Q5UMN2_9EURO,tr|A0A1Q5UMN2|A0A1Q5UMN2_9EURO Carbonic anhydrase OS=Penicillium subrubescens OX=1316194 GN=PENSUB_588 PE=3 SV=1,283,8ca.alpha.45,15.9,2.8e-06,283.0,349.0
+tr|A0A1Q8JGJ4|A0A1Q8JGJ4_9PSEU,tr|A0A1Q8JGJ4|A0A1Q8JGJ4_9PSEU carbonic anhydrase OS=Pseudonocardia sp. Ae356_Ps1 OX=1885032 GN=Ae356Ps1_1231 PE=3 SV=1,793,NO_HIT,,,,
+tr|A0A1Q8KMT8|A0A1Q8KMT8_9PSEU,tr|A0A1Q8KMT8|A0A1Q8KMT8_9PSEU carbonic anhydrase OS=Pseudonocardia sp. Ae707_Ps1 OX=1885572 GN=Ae707Ps1_2087 PE=3 SV=1,769,NO_HIT,,,,
+tr|A0A1Q8KYQ3|A0A1Q8KYQ3_9PSEU,tr|A0A1Q8KYQ3|A0A1Q8KYQ3_9PSEU carbonic anhydrase OS=Pseudonocardia sp. Ae706_Ps2 OX=1885035 GN=Ae706Ps2_0131 PE=3 SV=1,772,NO_HIT,,,,
+tr|A0A1Q8LPV7|A0A1Q8LPV7_9PSEU,tr|A0A1Q8LPV7|A0A1Q8LPV7_9PSEU carbonic anhydrase OS=Pseudonocardia sp. Ae717_Ps2 OX=1885573 GN=Ae717Ps2_1712 PE=3 SV=1,772,NO_HIT,,,,
+tr|A0A1Q9RU71|A0A1Q9RU71_9PSEU,tr|A0A1Q9RU71|A0A1Q9RU71_9PSEU carbonic anhydrase OS=Pseudonocardia sp. CNS-004 OX=1904967 GN=BJF90_38915 PE=3 SV=1,735,NO_HIT,,,,
+tr|A0A1R3FY78|A0A1R3FY78_COCAP,tr|A0A1R3FY78|A0A1R3FY78_COCAP carbonic anhydrase OS=Corchorus capsularis OX=210143 GN=CCACVL1_30291 PE=3 SV=1,684,8ca.alpha.45,16.3,2.2e-06,684.0,349.0
+tr|A0A1R3HS03|A0A1R3HS03_COCAP,tr|A0A1R3HS03|A0A1R3HS03_COCAP peroxidase OS=Corchorus capsularis OX=210143 GN=CCACVL1_17474 PE=3 SV=1,503,NO_HIT,,,,
+tr|A0A1R3USQ8|A0A1R3USQ8_9ACTN,tr|A0A1R3USQ8|A0A1R3USQ8_9ACTN carbonic anhydrase OS=Nocardiopsis sp. JB363 OX=1434837 GN=BQ8420_24195 PE=3 SV=1,780,8ca.alpha.45,20.2,1.4e-07,780.0,349.0
+tr|A0A1S1QTV1|A0A1S1QTV1_9ACTN,tr|A0A1S1QTV1|A0A1S1QTV1_9ACTN carbonic anhydrase OS=Parafrankia colletiae OX=573497 GN=CC117_16825 PE=3 SV=1,855,NO_HIT,,,,
+tr|A0A1S1QW63|A0A1S1QW63_9ACTN,tr|A0A1S1QW63|A0A1S1QW63_9ACTN carbonic anhydrase OS=Parafrankia soli OX=2599596 GN=BBK14_02585 PE=3 SV=1,862,NO_HIT,,,,
+tr|A0A1S1VA25|A0A1S1VA25_9FIRM,tr|A0A1S1VA25|A0A1S1VA25_9FIRM Carbonic anhydrase OS=Andreesenia angusta OX=39480 GN=cynT PE=3 SV=1,249,8ca.alpha.45,37.5,7.5e-13,249.0,349.0
+tr|A0A1S3AIG2|A0A1S3AIG2_ERIEU,tr|A0A1S3AIG2|A0A1S3AIG2_ERIEU Carbonic anhydrase OS=Erinaceus europaeus OX=9365 GN=CA2 PE=3 SV=1,260,8ca.beta.45,150.8,3.3999999999999997e-47,260.0,381.0
+tr|A0A1S3GG11|A0A1S3GG11_DIPOR,tr|A0A1S3GG11|A0A1S3GG11_DIPOR Carbonic anhydrase 6 OS=Dipodomys ordii OX=10020 GN=Ca6 PE=3 SV=1,343,8ca.beta.45,114.7,3.1e-36,343.0,381.0
+tr|A0A1S3NSP3|A0A1S3NSP3_SALSA,tr|A0A1S3NSP3|A0A1S3NSP3_SALSA Carbonic anhydrase OS=Salmo salar OX=8030 GN=LOC106581086 PE=3 SV=1,304,8ca.beta.45,98.2,3.1e-31,304.0,381.0
+tr|A0A1S3RPE9|A0A1S3RPE9_SALSA,tr|A0A1S3RPE9|A0A1S3RPE9_SALSA Carbonic anhydrase OS=Salmo salar OX=8030 GN=LOC106603953 PE=3 SV=1,306,8ca.beta.45,123.6,6e-39,306.0,381.0
+tr|A0A1S3SZM5|A0A1S3SZM5_SALSA,tr|A0A1S3SZM5|A0A1S3SZM5_SALSA Carbonic anhydrase OS=Salmo salar OX=8030 GN=LOC106612801 PE=3 SV=1,304,8ca.beta.45,107.9,3.7000000000000003e-34,304.0,381.0
+tr|A0A1S3W3M3|A0A1S3W3M3_ERIEU,tr|A0A1S3W3M3|A0A1S3W3M3_ERIEU Carbonic anhydrase OS=Erinaceus europaeus OX=9365 GN=CA4 PE=3 SV=1,312,8ca.beta.45,120.4,5.900000000000001e-38,312.0,381.0
+tr|A0A1S9RX29|A0A1S9RX29_PENBI,tr|A0A1S9RX29|A0A1S9RX29_PENBI Carbonic anhydrase OS=Penicillium brasilianum OX=104259 GN=PEBR_04955 PE=3 SV=1,284,8ca.alpha.45,16.4,2e-06,284.0,349.0
+tr|A0A1T3CH56|A0A1T3CH56_9HYPO,tr|A0A1T3CH56|A0A1T3CH56_9HYPO Carbonic anhydrase OS=Trichoderma guizhouense OX=1491466 GN=A0O28_0004710 PE=3 SV=1,293,8ca.alpha.45,18.6,4.3e-07,293.0,349.0
+tr|A0A1U7Q3W6|A0A1U7Q3W6_MESAU,tr|A0A1U7Q3W6|A0A1U7Q3W6_MESAU Carbonic anhydrase OS=Mesocricetus auratus OX=10036 GN=Ca2 PE=3 SV=1,260,8ca.beta.45,154.2,3.1e-48,260.0,381.0
+tr|A0A1U7QDT3|A0A1U7QDT3_MESAU,tr|A0A1U7QDT3|A0A1U7QDT3_MESAU Carbonic anhydrase OS=Mesocricetus auratus OX=10036 GN=Ca4 PE=3 SV=1,307,8ca.beta.45,103.5,8.1e-33,307.0,381.0
+tr|A0A1U7QS69|A0A1U7QS69_MESAU,tr|A0A1U7QS69|A0A1U7QS69_MESAU Receptor-type tyrosine-protein phosphatase zeta OS=Mesocricetus auratus OX=10036 GN=Ptprz1 PE=3 SV=1,2312,8ca.beta.45,95.1,2.8000000000000002e-30,2312.0,381.0
+tr|A0A1U7R3S6|A0A1U7R3S6_MESAU,tr|A0A1U7R3S6|A0A1U7R3S6_MESAU Carbonic anhydrase OS=Mesocricetus auratus OX=10036 GN=Ca9 PE=3 SV=1,435,8ca.beta.45,103.6,7.2e-33,435.0,381.0
+tr|A0A1U7RKV7|A0A1U7RKV7_ALLSI,tr|A0A1U7RKV7|A0A1U7RKV7_ALLSI Carbonic anhydrase OS=Alligator sinensis OX=38654 GN=CA4 PE=3 SV=1,317,8ca.beta.45,118.9,1.7e-37,317.0,381.0
+tr|A0A1U7SZR9|A0A1U7SZR9_CARSF,tr|A0A1U7SZR9|A0A1U7SZR9_CARSF Carbonic anhydrase OS=Carlito syrichta OX=1868482 GN=CA4 PE=3 SV=1,317,8ca.beta.45,91.1,4.5e-29,317.0,381.0
+tr|A0A1U7T2C9|A0A1U7T2C9_CARSF,tr|A0A1U7T2C9|A0A1U7T2C9_CARSF Carbonic anhydrase OS=Carlito syrichta OX=1868482 GN=CA4 PE=3 SV=1,309,8ca.beta.45,95.9,1.6e-30,309.0,381.0
+tr|A0A1U7U3U8|A0A1U7U3U8_CARSF,tr|A0A1U7U3U8|A0A1U7U3U8_CARSF Carbonic anhydrase OS=Carlito syrichta OX=1868482 GN=CA1 PE=3 SV=1,261,8ca.beta.45,147.1,4.5e-46,261.0,381.0
+tr|A0A1U7U5Z9|A0A1U7U5Z9_CARSF,tr|A0A1U7U5Z9|A0A1U7U5Z9_CARSF Carbonic anhydrase OS=Carlito syrichta OX=1868482 GN=CA9 PE=3 SV=1,452,8ca.beta.45,100.1,8.200000000000001e-32,452.0,381.0
+tr|A0A1U8JAW6|A0A1U8JAW6_GOSHI,tr|A0A1U8JAW6|A0A1U8JAW6_GOSHI Carbonic anhydrase OS=Gossypium hirsutum OX=3635 GN=LOC107905325 PE=3 SV=1,289,8ca.beta.45,177.7,2.2999999999999998e-55,289.0,381.0
+tr|A0A1U8JEN6|A0A1U8JEN6_GOSHI,tr|A0A1U8JEN6|A0A1U8JEN6_GOSHI Carbonic anhydrase OS=Gossypium hirsutum OX=3635 GN=LOC107906252 PE=3 SV=1,274,8ca.beta.45,160.6,3.6e-50,274.0,381.0
+tr|A0A1V2IVE8|A0A1V2IVE8_9ACTN,tr|A0A1V2IVE8|A0A1V2IVE8_9ACTN carbonic anhydrase OS=Protofrankia sp. BMG5.30 OX=1834514 GN=BL254_06850 PE=3 SV=1,887,NO_HIT,,,,
+tr|A0A1V2LUA9|A0A1V2LUA9_PICKU,tr|A0A1V2LUA9|A0A1V2LUA9_PICKU carbonic anhydrase OS=Pichia kudriavzevii OX=4909 GN=BOH78_0957 PE=3 SV=1,862,8ca.alpha.45,24.0,9.7e-09,862.0,349.0
+tr|A0A1V2TDY1|A0A1V2TDY1_9NOCA,tr|A0A1V2TDY1|A0A1V2TDY1_9NOCA carbonic anhydrase OS=Nocardia donostiensis OX=1538463 GN=B0T46_15695 PE=3 SV=1,761,NO_HIT,,,,
+tr|A0A1V3C1I2|A0A1V3C1I2_9ACTN,tr|A0A1V3C1I2|A0A1V3C1I2_9ACTN carbonic anhydrase OS=Nocardiopsis sinuspersici OX=501010 GN=HNR06_000216 PE=3 SV=1,787,8ca.alpha.45,22.3,3.2e-08,787.0,349.0
+tr|A0A1V4K1Y3|A0A1V4K1Y3_PATFA,tr|A0A1V4K1Y3|A0A1V4K1Y3_PATFA Carbonic anhydrase 4 OS=Patagioenas fasciata monilis OX=372326 GN=CA4 PE=3 SV=1,316,8ca.beta.45,106.3,1.1e-33,316.0,381.0
+tr|A0A1V6QEZ3|A0A1V6QEZ3_9EURO,tr|A0A1V6QEZ3|A0A1V6QEZ3_9EURO Carbonic anhydrase OS=Penicillium antarcticum OX=416450 GN=PENANT_c005G05856 PE=3 SV=1,291,8ca.alpha.45,19.0,3.1e-07,291.0,349.0
+tr|A0A1V6S7Z6|A0A1V6S7Z6_9EURO,tr|A0A1V6S7Z6|A0A1V6S7Z6_9EURO Carbonic anhydrase OS=Penicillium vulpinum OX=29845 GN=PENVUL_c005G02610 PE=3 SV=1,296,8ca.alpha.45,19.0,3.2e-07,296.0,349.0
+tr|A0A1V8SHE7|A0A1V8SHE7_9PEZI,tr|A0A1V8SHE7|A0A1V8SHE7_9PEZI Carbonic anhydrase OS=Cryoendolithus antarcticus OX=1507870 GN=B0A48_15727 PE=3 SV=1,250,8ca.alpha.45,20.9,8.6e-08,250.0,349.0
+tr|A0A1V8SXQ0|A0A1V8SXQ0_9PEZI,tr|A0A1V8SXQ0|A0A1V8SXQ0_9PEZI Carbonic anhydrase OS=Cryoendolithus antarcticus OX=1507870 GN=B0A48_10578 PE=3 SV=1,262,8ca.alpha.45,20.7,9.8e-08,262.0,349.0
+tr|A0A1V8U270|A0A1V8U270_9PEZI,tr|A0A1V8U270|A0A1V8U270_9PEZI Carbonic anhydrase OS=Rachicladosporium sp. CCFEE 5018 OX=1974281 GN=B0A51_15793 PE=3 SV=1,306,8ca.alpha.45,20.1,1.5e-07,306.0,349.0
+tr|A0A1V9Y6P8|A0A1V9Y6P8_9STRA,tr|A0A1V9Y6P8|A0A1V9Y6P8_9STRA Glycerol-3-phosphate dehydrogenase [NAD(+)] OS=Thraustotheca clavata OX=74557 GN=THRCLA_11767 PE=3 SV=1,609,8ca.alpha.45,14.8,6.2e-06,609.0,349.0
+tr|A0A1V9ZC55|A0A1V9ZC55_9STRA,tr|A0A1V9ZC55|A0A1V9ZC55_9STRA Coatomer subunit delta OS=Thraustotheca clavata OX=74557 GN=THRCLA_07743 PE=3 SV=1,838,NO_HIT,,,,
+tr|A0A1V9ZTQ6|A0A1V9ZTQ6_ACHHY,tr|A0A1V9ZTQ6|A0A1V9ZTQ6_ACHHY Coatomer subunit delta OS=Achlya hypogyna OX=1202772 GN=ACHHYP_01781 PE=3 SV=1,791,NO_HIT,,,,
+tr|A0A1W0X228|A0A1W0X228_HYPEX,tr|A0A1W0X228|A0A1W0X228_HYPEX Multifunctional fusion protein OS=Hypsibius exemplaris OX=2072580 GN=BV898_04428 PE=3 SV=1,572,8ca.beta.45,126.7,6.9999999999999995e-40,572.0,381.0
+tr|A0A1W2TFY5|A0A1W2TFY5_ROSNE,tr|A0A1W2TFY5|A0A1W2TFY5_ROSNE Carbonic anhydrase OS=Rosellinia necatrix OX=77044 GN=SAMD00023353_2401470 PE=3 SV=1,334,8ca.alpha.45,16.0,2.6e-06,334.0,349.0
+tr|A0A1X1MIQ6|A0A1X1MIQ6_9ACTN,tr|A0A1X1MIQ6|A0A1X1MIQ6_9ACTN carbonic anhydrase OS=Frankia sp. KB5 OX=683318 GN=KBI5_20580 PE=3 SV=1,872,NO_HIT,,,,
+tr|A0A1Y2N088|A0A1Y2N088_PSEAH,tr|A0A1Y2N088|A0A1Y2N088_PSEAH carbonic anhydrase OS=Pseudonocardia autotrophica OX=2074 GN=dauA_1 PE=3 SV=1,774,NO_HIT,,,,
+tr|A0A1Y6BYZ4|A0A1Y6BYZ4_9BACT,tr|A0A1Y6BYZ4|A0A1Y6BYZ4_9BACT Cholesterol oxidase OS=Pseudobacteriovorax antillogorgiicola OX=1513793 GN=SAMN06296036_11155 PE=3 SV=1,1146,NO_HIT,,,,
+tr|A0A218UUW2|A0A218UUW2_9PASE,tr|A0A218UUW2|A0A218UUW2_9PASE Carbonic anhydrase OS=Lonchura striata OX=40157 GN=CA4 PE=3 SV=1,314,8ca.beta.45,103.1,9.999999999999999e-33,314.0,381.0
+tr|A0A218WG89|A0A218WG89_PUNGR,tr|A0A218WG89|A0A218WG89_PUNGR L-aspartate oxidase OS=Punica granatum OX=22663 GN=CDL15_Pgr005730 PE=3 SV=1,849,NO_HIT,,,,
+tr|A0A220T6E7|A0A220T6E7_9POXV,tr|A0A220T6E7|A0A220T6E7_9POXV Carbonic anhydrase 1 OS=Eptesipox virus OX=1329402 GN=EPTV-WA-090 PE=4 SV=1,290,8ca.beta.45,63.7,9.6e-21,290.0,381.0
+tr|A0A221W725|A0A221W725_9PSEU,tr|A0A221W725|A0A221W725_9PSEU carbonic anhydrase OS=Actinoalloteichus hoggarensis OX=1470176 GN=icfA PE=3 SV=1,802,NO_HIT,,,,
+tr|A0A223S8Q8|A0A223S8Q8_9ACTN,tr|A0A223S8Q8|A0A223S8Q8_9ACTN carbonic anhydrase OS=Nocardiopsis gilva YIM 90087 OX=1235441 GN=CDO52_18370 PE=3 SV=1,772,8ca.alpha.45,13.1,2e-05,772.0,349.0
+tr|A0A231H3M9|A0A231H3M9_9NOCA,tr|A0A231H3M9|A0A231H3M9_9NOCA carbonic anhydrase OS=Nocardia cerradoensis OX=85688 GN=dauA_1 PE=3 SV=1,746,8ca.alpha.45,17.4,9.5e-07,746.0,349.0
+tr|A0A238ZMB4|A0A238ZMB4_9BACT,tr|A0A238ZMB4|A0A238ZMB4_9BACT Carbonic anhydrase OS=Hymenobacter mucosus OX=1411120 GN=SAMN06269173_108142 PE=3 SV=1,238,8ca.alpha.45,23.9,1e-08,238.0,349.0
+tr|A0A250YDW1|A0A250YDW1_CASCN,tr|A0A250YDW1|A0A250YDW1_CASCN Carbonic anhydrase OS=Castor canadensis OX=51338 GN=CAR2 PE=3 SV=1,260,8ca.beta.45,143.5,5.3000000000000003e-45,260.0,381.0
+tr|A0A251NCR7|A0A251NCR7_PRUPE,tr|A0A251NCR7|A0A251NCR7_PRUPE Carbonic anhydrase OS=Prunus persica OX=3760 GN=PRUPE_7G126500 PE=3 SV=1,338,8ca.beta.45,150.1,5.6e-47,338.0,381.0
+tr|A0A263CWK5|A0A263CWK5_9PSEU,tr|A0A263CWK5|A0A263CWK5_9PSEU carbonic anhydrase OS=Amycolatopsis antarctica OX=1854586 GN=CFN78_25440 PE=3 SV=1,780,8ca.alpha.45,20.5,1.1e-07,780.0,349.0
+tr|A0A286XCJ8|A0A286XCJ8_CAVPO,tr|A0A286XCJ8|A0A286XCJ8_CAVPO Receptor-type tyrosine-protein phosphatase zeta OS=Cavia porcellus OX=10141 GN=PTPRZ1 PE=3 SV=1,1433,8ca.beta.45,89.8,1.1000000000000002e-28,1433.0,381.0
+tr|A0A286XED8|A0A286XED8_CAVPO,tr|A0A286XED8|A0A286XED8_CAVPO Transferrin-like domain-containing protein OS=Cavia porcellus OX=10141 GN=Tf PE=3 SV=1,700,NO_HIT,,,,
+tr|A0A287B6M0|A0A287B6M0_PIG,tr|A0A287B6M0|A0A287B6M0_PIG Carbonic anhydrase OS=Sus scrofa OX=9823 GN=CA2 PE=1 SV=2,305,8ca.beta.45,133.4,6.6e-42,305.0,381.0
+tr|A0A287BQK7|A0A287BQK7_PIG,tr|A0A287BQK7|A0A287BQK7_PIG Receptor-type tyrosine-protein phosphatase zeta OS=Sus scrofa OX=9823 GN=PTPRZ1 PE=1 SV=3,2305,8ca.beta.45,92.5,1.7e-29,2305.0,381.0
+tr|A0A2A9PLP7|A0A2A9PLP7_OPHUN,tr|A0A2A9PLP7|A0A2A9PLP7_OPHUN Carbonic anhydrase OS=Ophiocordyceps unilateralis OX=268505 GN=XA68_16146 PE=3 SV=1,311,8ca.alpha.45,21.6,5.3e-08,311.0,349.0
+tr|A0A2B7Y9Z4|A0A2B7Y9Z4_9EURO,tr|A0A2B7Y9Z4|A0A2B7Y9Z4_9EURO Carbonic anhydrase OS=Helicocarpus griseus UAMH5409 OX=1447875 GN=AJ79_00780 PE=3 SV=1,281,8ca.alpha.45,19.0,3.1e-07,281.0,349.0
+tr|A0A2C5YMQ5|A0A2C5YMQ5_9HYPO,tr|A0A2C5YMQ5|A0A2C5YMQ5_9HYPO Carbonic anhydrase OS=Cordyceps sp. RAO-2017 OX=2004951 GN=CDD83_7036 PE=3 SV=1,278,8ca.alpha.45,20.2,1.4e-07,278.0,349.0
+tr|A0A2C9K8T0|A0A2C9K8T0_BIOGL,tr|A0A2C9K8T0|A0A2C9K8T0_BIOGL Carbonic anhydrase OS=Biomphalaria glabrata OX=6526 GN=106050470 PE=3 SV=1,1132,8ca.beta.45,319.8,1.5e-98,1132.0,381.0
+tr|A0A2D0Q8V6|A0A2D0Q8V6_ICTPU,tr|A0A2D0Q8V6|A0A2D0Q8V6_ICTPU Carbonic anhydrase OS=Ictalurus punctatus OX=7998 GN=ca4a PE=3 SV=1,306,8ca.beta.45,115.6,1.7e-36,306.0,381.0
+tr|A0A2D0Q9J2|A0A2D0Q9J2_ICTPU,tr|A0A2D0Q9J2|A0A2D0Q9J2_ICTPU Carbonic anhydrase OS=Ictalurus punctatus OX=7998 GN=LOC108259756 PE=3 SV=1,309,8ca.beta.45,91.8,2.8999999999999997e-29,309.0,381.0
+tr|A0A2D0SJX8|A0A2D0SJX8_ICTPU,tr|A0A2D0SJX8|A0A2D0SJX8_ICTPU Carbonic anhydrase 6 OS=Ictalurus punctatus OX=7998 GN=ca6 PE=3 SV=2,547,8ca.beta.45,100.4,7e-32,547.0,381.0
+tr|A0A2D0SX59|A0A2D0SX59_ICTPU,tr|A0A2D0SX59|A0A2D0SX59_ICTPU Carbonic anhydrase OS=Ictalurus punctatus OX=7998 GN=ca4b PE=3 SV=1,302,8ca.beta.45,116.4,9.7e-37,302.0,381.0
+tr|A0A2H1A7R2|A0A2H1A7R2_CANAR,tr|A0A2H1A7R2|A0A2H1A7R2_CANAR Carbonic anhydrase OS=Candidozyma auris OX=498019 GN=B9J08_000363 PE=3 SV=1,269,8ca.alpha.45,12.4,3.3e-05,269.0,349.0
+tr|A0A2H2YYH6|A0A2H2YYH6_TRIPA,tr|A0A2H2YYH6|A0A2H2YYH6_TRIPA Carbonic anhydrase OS=Trichoderma parareesei OX=858221 GN=A9Z42_0017560 PE=3 SV=1,305,8ca.alpha.45,17.1,1.2e-06,305.0,349.0
+tr|A0A2I0LYN1|A0A2I0LYN1_COLLI,tr|A0A2I0LYN1|A0A2I0LYN1_COLLI Carbonic anhydrase 4 OS=Columba livia OX=8932 GN=CA4 PE=3 SV=1,316,8ca.beta.45,101.5,3.3e-32,316.0,381.0
+tr|A0A2I0W082|A0A2I0W082_9ASPA,tr|A0A2I0W082|A0A2I0W082_9ASPA Carbonic anhydrase OS=Dendrobium catenatum OX=906689 GN=MA16_Dca002342 PE=3 SV=1,300,8ca.alpha.45,13.6,1.4e-05,300.0,349.0
+tr|A0A2I2KXK6|A0A2I2KXK6_9ACTN,tr|A0A2I2KXK6|A0A2I2KXK6_9ACTN carbonic anhydrase OS=Frankia canadensis OX=1836972 GN=FRACA_450024 PE=3 SV=1,991,NO_HIT,,,,
+tr|A0A2I2UBT1|A0A2I2UBT1_FELCA,tr|A0A2I2UBT1|A0A2I2UBT1_FELCA Carbonic anhydrase 1 OS=Felis catus OX=9685 GN=CA1 PE=3 SV=1,127,8ca.beta.45,51.1,6.6e-17,127.0,381.0
+tr|A0A2I2YMA5|A0A2I2YMA5_GORGO,tr|A0A2I2YMA5|A0A2I2YMA5_GORGO Carbonic anhydrase OS=Gorilla gorilla gorilla OX=9595 GN=CA9 PE=3 SV=1,459,8ca.beta.45,93.7,7.6e-30,459.0,381.0
+tr|A0A2I2YR68|A0A2I2YR68_GORGO,tr|A0A2I2YR68|A0A2I2YR68_GORGO Carbonic anhydrase 1 OS=Gorilla gorilla gorilla OX=9595 GN=CA1 PE=3 SV=1,130,8ca.beta.45,57.5,7.6e-19,130.0,381.0
+tr|A0A2I2Z572|A0A2I2Z572_GORGO,tr|A0A2I2Z572|A0A2I2Z572_GORGO Carbonic anhydrase 1 OS=Gorilla gorilla gorilla OX=9595 GN=CA1 PE=3 SV=1,127,8ca.beta.45,57.6,7.1e-19,127.0,381.0
+tr|A0A2I3G431|A0A2I3G431_NOMLE,tr|A0A2I3G431|A0A2I3G431_NOMLE Receptor-type tyrosine-protein phosphatase gamma OS=Nomascus leucogenys OX=61853 GN=PTPRG PE=3 SV=1,1389,8ca.beta.45,83.1,1.2e-26,1389.0,381.0
+tr|A0A2I3GE59|A0A2I3GE59_NOMLE,tr|A0A2I3GE59|A0A2I3GE59_NOMLE Carbonic anhydrase OS=Nomascus leucogenys OX=61853 GN=CA9 PE=3 SV=1,447,8ca.beta.45,96.7,8.9e-31,447.0,381.0
+tr|A0A2I3GFQ3|A0A2I3GFQ3_NOMLE,tr|A0A2I3GFQ3|A0A2I3GFQ3_NOMLE Carbonic anhydrase 1 OS=Nomascus leucogenys OX=61853 GN=CA1 PE=3 SV=1,127,8ca.beta.45,58.7,3.3e-19,127.0,381.0
+tr|A0A2I3H8D4|A0A2I3H8D4_NOMLE,tr|A0A2I3H8D4|A0A2I3H8D4_NOMLE Carbonic anhydrase 2 OS=Nomascus leucogenys OX=61853 GN=CA2 PE=3 SV=1,97,8ca.beta.45,43.1,1.7e-14,97.0,381.0
+tr|A0A2I3LHY3|A0A2I3LHY3_PAPAN,tr|A0A2I3LHY3|A0A2I3LHY3_PAPAN Carbonic anhydrase OS=Papio anubis OX=9555 GN=CA2 PE=3 SV=2,260,8ca.beta.45,154.4,2.6000000000000002e-48,260.0,381.0
+tr|A0A2I3LNL0|A0A2I3LNL0_PAPAN,tr|A0A2I3LNL0|A0A2I3LNL0_PAPAN Carbonic anhydrase 1 OS=Papio anubis OX=9555 GN=CA1 PE=3 SV=2,127,8ca.beta.45,58.8,3.1e-19,127.0,381.0
+tr|A0A2I3M4P9|A0A2I3M4P9_PAPAN,tr|A0A2I3M4P9|A0A2I3M4P9_PAPAN Receptor-type tyrosine-protein phosphatase gamma OS=Papio anubis OX=9555 GN=PTPRG PE=3 SV=2,1396,8ca.beta.45,93.7,7.5e-30,1396.0,381.0
+tr|A0A2I3RZR1|A0A2I3RZR1_PANTR,tr|A0A2I3RZR1|A0A2I3RZR1_PANTR Carbonic anhydrase OS=Pan troglodytes OX=9598 GN=CA1 PE=3 SV=1,261,8ca.beta.45,152.3,1.0999999999999999e-47,261.0,381.0
+tr|A0A2I3S2V9|A0A2I3S2V9_PANTR,tr|A0A2I3S2V9|A0A2I3S2V9_PANTR Carbonic anhydrase OS=Pan troglodytes OX=9598 GN=CA3 PE=3 SV=1,359,8ca.beta.45,140.9,3.5000000000000003e-44,359.0,381.0
+tr|A0A2I3SU51|A0A2I3SU51_PANTR,tr|A0A2I3SU51|A0A2I3SU51_PANTR Carbonic anhydrase OS=Pan troglodytes OX=9598 GN=CA2 PE=3 SV=1,262,8ca.beta.45,146.5,6.8e-46,262.0,381.0
+tr|A0A2I3T353|A0A2I3T353_PANTR,tr|A0A2I3T353|A0A2I3T353_PANTR Carbonic anhydrase OS=Pan troglodytes OX=9598 GN=CA6 PE=3 SV=1,312,8ca.beta.45,111.6,2.7e-35,312.0,381.0
+tr|A0A2I3TF03|A0A2I3TF03_PANTR,tr|A0A2I3TF03|A0A2I3TF03_PANTR Carbonic anhydrase 1 OS=Pan troglodytes OX=9598 GN=CA1 PE=3 SV=1,127,8ca.beta.45,56.9,1.1e-18,127.0,381.0
+tr|A0A2I4AL47|A0A2I4AL47_AUSLI,tr|A0A2I4AL47|A0A2I4AL47_AUSLI Carbonic anhydrase OS=Austrofundulus limnaeus OX=52670 GN=ca4 PE=3 SV=1,325,8ca.beta.45,130.3,5.699999999999999e-41,325.0,381.0
+tr|A0A2I4BFF2|A0A2I4BFF2_AUSLI,tr|A0A2I4BFF2|A0A2I4BFF2_AUSLI Carbonic anhydrase OS=Austrofundulus limnaeus OX=52670 GN=LOC106519376 PE=3 SV=1,307,8ca.beta.45,130.8,4e-41,307.0,381.0
+tr|A0A2J6TC38|A0A2J6TC38_9HELO,tr|A0A2J6TC38|A0A2J6TC38_9HELO Carbonic anhydrase OS=Hyaloscypha bicolor E OX=1095630 GN=K444DRAFT_528099 PE=3 SV=1,271,8ca.alpha.45,23.3,1.6e-08,271.0,349.0
+tr|A0A2J8LP63|A0A2J8LP63_PANTR,tr|A0A2J8LP63|A0A2J8LP63_PANTR Carbonic anhydrase 1 (Fragment) OS=Pan troglodytes OX=9598 GN=CK820_G0027329 PE=3 SV=1,118,8ca.beta.45,68.8,2.7e-22,118.0,381.0
+tr|A0A2J8LP78|A0A2J8LP78_PANTR,tr|A0A2J8LP78|A0A2J8LP78_PANTR Carbonic anhydrase 1 OS=Pan troglodytes OX=9598 GN=CK820_G0027329 PE=3 SV=1,81,8ca.beta.45,52.3,2.9e-17,81.0,381.0
+tr|A0A2K0UPA4|A0A2K0UPA4_TRIHA,tr|A0A2K0UPA4|A0A2K0UPA4_TRIHA Carbonic anhydrase OS=Trichoderma harzianum OX=5544 GN=THARTR1_00777 PE=3 SV=1,292,8ca.alpha.45,18.5,4.4e-07,292.0,349.0
+tr|A0A2K5DVC8|A0A2K5DVC8_AOTNA,tr|A0A2K5DVC8|A0A2K5DVC8_AOTNA Carbonic anhydrase OS=Aotus nancymaae OX=37293 GN=CA1 PE=3 SV=1,261,8ca.beta.45,159.3,9e-50,261.0,381.0
+tr|A0A2K5DVF9|A0A2K5DVF9_AOTNA,tr|A0A2K5DVF9|A0A2K5DVF9_AOTNA Carbonic anhydrase 1 OS=Aotus nancymaae OX=37293 GN=CA1 PE=3 SV=1,127,8ca.beta.45,54.2,7.6e-18,127.0,381.0
+tr|A0A2K5DZE5|A0A2K5DZE5_AOTNA,tr|A0A2K5DZE5|A0A2K5DZE5_AOTNA Carbonic anhydrase OS=Aotus nancymaae OX=37293 GN=CA2 PE=3 SV=1,229,8ca.beta.45,127.1,5.1e-40,229.0,381.0
+tr|A0A2K5DZL1|A0A2K5DZL1_AOTNA,tr|A0A2K5DZL1|A0A2K5DZL1_AOTNA Carbonic anhydrase OS=Aotus nancymaae OX=37293 GN=CA2 PE=3 SV=1,248,8ca.beta.45,126.8,6.4e-40,248.0,381.0
+tr|A0A2K5E4S8|A0A2K5E4S8_AOTNA,tr|A0A2K5E4S8|A0A2K5E4S8_AOTNA Carbonic anhydrase OS=Aotus nancymaae OX=37293 GN=CA4 PE=3 SV=1,312,8ca.beta.45,99.4,1.4e-31,312.0,381.0
+tr|A0A2K5EC70|A0A2K5EC70_AOTNA,tr|A0A2K5EC70|A0A2K5EC70_AOTNA Receptor-type tyrosine-protein phosphatase zeta OS=Aotus nancymaae OX=37293 GN=PTPRZ1 PE=3 SV=1,2328,8ca.beta.45,91.8,2.7999999999999997e-29,2328.0,381.0
+tr|A0A2K5JT15|A0A2K5JT15_COLAP,tr|A0A2K5JT15|A0A2K5JT15_COLAP Carbonic anhydrase OS=Colobus angolensis palliatus OX=336983 PE=3 SV=1,260,8ca.beta.45,145.1,1.8e-45,260.0,381.0
+tr|A0A2K5JT21|A0A2K5JT21_COLAP,tr|A0A2K5JT21|A0A2K5JT21_COLAP Carbonic anhydrase OS=Colobus angolensis palliatus OX=336983 PE=3 SV=1,254,8ca.beta.45,131.6,2.2e-41,254.0,381.0
+tr|A0A2K5JYD2|A0A2K5JYD2_COLAP,tr|A0A2K5JYD2|A0A2K5JYD2_COLAP Carbonic anhydrase 1 OS=Colobus angolensis palliatus OX=336983 PE=3 SV=1,127,8ca.beta.45,60.2,1.2e-19,127.0,381.0
+tr|A0A2K5LHA9|A0A2K5LHA9_CERAT,tr|A0A2K5LHA9|A0A2K5LHA9_CERAT Carbonic anhydrase OS=Cercocebus atys OX=9531 GN=CA7 PE=3 SV=1,264,8ca.beta.45,151.3,2.4e-47,264.0,381.0
+tr|A0A2K5LSL2|A0A2K5LSL2_CERAT,tr|A0A2K5LSL2|A0A2K5LSL2_CERAT Carbonic anhydrase OS=Cercocebus atys OX=9531 GN=CA2 PE=3 SV=1,260,8ca.beta.45,149.9,6.3e-47,260.0,381.0
+tr|A0A2K5M7G2|A0A2K5M7G2_CERAT,tr|A0A2K5M7G2|A0A2K5M7G2_CERAT Carbonic anhydrase OS=Cercocebus atys OX=9531 GN=CA4 PE=3 SV=1,304,8ca.beta.45,102.7,1.3000000000000001e-32,304.0,381.0
+tr|A0A2K5MEE7|A0A2K5MEE7_CERAT,tr|A0A2K5MEE7|A0A2K5MEE7_CERAT Carbonic anhydrase OS=Cercocebus atys OX=9531 GN=CA3 PE=3 SV=1,295,8ca.beta.45,137.1,4.699999999999999e-43,295.0,381.0
+tr|A0A2K5MH52|A0A2K5MH52_CERAT,tr|A0A2K5MH52|A0A2K5MH52_CERAT Carbonic anhydrase OS=Cercocebus atys OX=9531 GN=CA9 PE=3 SV=1,529,8ca.beta.45,96.4,1.1000000000000001e-30,529.0,381.0
+tr|A0A2K5N8E5|A0A2K5N8E5_CERAT,tr|A0A2K5N8E5|A0A2K5N8E5_CERAT Carbonic anhydrase 6 OS=Cercocebus atys OX=9531 GN=CA6 PE=3 SV=1,180,NO_HIT,,,,
+tr|A0A2K5NB79|A0A2K5NB79_CERAT,tr|A0A2K5NB79|A0A2K5NB79_CERAT Receptor-type tyrosine-protein phosphatase gamma OS=Cercocebus atys OX=9531 GN=PTPRG PE=3 SV=1,1382,8ca.beta.45,80.4,8.2e-26,1382.0,381.0
+tr|A0A2K5NTA5|A0A2K5NTA5_CERAT,tr|A0A2K5NTA5|A0A2K5NTA5_CERAT Receptor-type tyrosine-protein phosphatase zeta OS=Cercocebus atys OX=9531 GN=PTPRZ1 PE=3 SV=1,2319,8ca.beta.45,92.7,1.4999999999999998e-29,2319.0,381.0
+tr|A0A2K5P3Y4|A0A2K5P3Y4_CERAT,tr|A0A2K5P3Y4|A0A2K5P3Y4_CERAT Carbonic anhydrase OS=Cercocebus atys OX=9531 GN=CA1 PE=3 SV=1,261,8ca.beta.45,158.4,1.5999999999999998e-49,261.0,381.0
+tr|A0A2K5P3Y9|A0A2K5P3Y9_CERAT,tr|A0A2K5P3Y9|A0A2K5P3Y9_CERAT Carbonic anhydrase 1 OS=Cercocebus atys OX=9531 GN=CA1 PE=3 SV=1,127,8ca.beta.45,59.9,1.4e-19,127.0,381.0
+tr|A0A2K5PJI2|A0A2K5PJI2_CEBIM,tr|A0A2K5PJI2|A0A2K5PJI2_CEBIM Receptor-type tyrosine-protein phosphatase gamma OS=Cebus imitator OX=2715852 GN=PTPRG PE=3 SV=1,1445,8ca.beta.45,97.5,5.3e-31,1445.0,381.0
+tr|A0A2K5PSD0|A0A2K5PSD0_CEBIM,tr|A0A2K5PSD0|A0A2K5PSD0_CEBIM Carbonic anhydrase OS=Cebus imitator OX=2715852 GN=CA4 PE=3 SV=1,312,8ca.beta.45,100.1,8.200000000000001e-32,312.0,381.0
+tr|A0A2K5QAX2|A0A2K5QAX2_CEBIM,tr|A0A2K5QAX2|A0A2K5QAX2_CEBIM Carbonic anhydrase OS=Cebus imitator OX=2715852 GN=CA2 PE=3 SV=1,260,8ca.beta.45,150.7,3.6e-47,260.0,381.0
+tr|A0A2K5QAX7|A0A2K5QAX7_CEBIM,tr|A0A2K5QAX7|A0A2K5QAX7_CEBIM Carbonic anhydrase OS=Cebus imitator OX=2715852 GN=CA2 PE=3 SV=1,291,8ca.beta.45,138.0,2.4999999999999997e-43,291.0,381.0
+tr|A0A2K5R457|A0A2K5R457_CEBIM,tr|A0A2K5R457|A0A2K5R457_CEBIM Receptor-type tyrosine-protein phosphatase zeta OS=Cebus imitator OX=2715852 GN=PTPRZ1 PE=3 SV=1,2304,8ca.beta.45,91.3,4.0000000000000003e-29,2304.0,381.0
+tr|A0A2K5RGX8|A0A2K5RGX8_CEBIM,tr|A0A2K5RGX8|A0A2K5RGX8_CEBIM Carbonic anhydrase 1 OS=Cebus imitator OX=2715852 GN=CA1 PE=3 SV=1,261,8ca.beta.45,157.8,2.5e-49,261.0,381.0
+tr|A0A2K5RGZ3|A0A2K5RGZ3_CEBIM,tr|A0A2K5RGZ3|A0A2K5RGZ3_CEBIM Carbonic anhydrase 1 OS=Cebus imitator OX=2715852 GN=CA1 PE=3 SV=1,127,8ca.beta.45,55.9,2.2e-18,127.0,381.0
+tr|A0A2K5RUB8|A0A2K5RUB8_CEBIM,tr|A0A2K5RUB8|A0A2K5RUB8_CEBIM Carbonic anhydrase OS=Cebus imitator OX=2715852 GN=CA9 PE=3 SV=1,454,8ca.beta.45,93.1,1.1e-29,454.0,381.0
+tr|A0A2K5U255|A0A2K5U255_MACFA,tr|A0A2K5U255|A0A2K5U255_MACFA Carbonic anhydrase OS=Macaca fascicularis OX=9541 GN=CA7 PE=3 SV=1,264,8ca.beta.45,151.3,2.4e-47,264.0,381.0
+tr|A0A2K5UCS1|A0A2K5UCS1_MACFA,tr|A0A2K5UCS1|A0A2K5UCS1_MACFA Carbonic anhydrase 1 OS=Macaca fascicularis OX=9541 GN=CA1 PE=3 SV=2,127,8ca.beta.45,60.7,8.1e-20,127.0,381.0
+tr|A0A2K5UCT8|A0A2K5UCT8_MACFA,tr|A0A2K5UCT8|A0A2K5UCT8_MACFA Carbonic anhydrase OS=Macaca fascicularis OX=9541 GN=CA1 PE=3 SV=2,261,8ca.beta.45,158.1,2.0000000000000003e-49,261.0,381.0
+tr|A0A2K5V3R7|A0A2K5V3R7_MACFA,tr|A0A2K5V3R7|A0A2K5V3R7_MACFA Receptor-type tyrosine-protein phosphatase zeta OS=Macaca fascicularis OX=9541 GN=PTPRZ1 PE=3 SV=2,2319,8ca.beta.45,92.2,2.1e-29,2319.0,381.0
+tr|A0A2K5VKI2|A0A2K5VKI2_MACFA,tr|A0A2K5VKI2|A0A2K5VKI2_MACFA Receptor-type tyrosine-protein phosphatase gamma OS=Macaca fascicularis OX=9541 GN=PTPRG PE=3 SV=2,1445,8ca.beta.45,93.6,8.1e-30,1445.0,381.0
+tr|A0A2K5VQG9|A0A2K5VQG9_MACFA,tr|A0A2K5VQG9|A0A2K5VQG9_MACFA Carbonic anhydrase OS=Macaca fascicularis OX=9541 GN=CA9 PE=3 SV=2,447,8ca.beta.45,98.1,3.5e-31,447.0,381.0
+tr|A0A2K5XA03|A0A2K5XA03_MANLE,tr|A0A2K5XA03|A0A2K5XA03_MANLE Carbonic anhydrase OS=Mandrillus leucophaeus OX=9568 GN=CA3 PE=3 SV=1,260,8ca.beta.45,149.5,8.3e-47,260.0,381.0
+tr|A0A2K5XF54|A0A2K5XF54_MANLE,tr|A0A2K5XF54|A0A2K5XF54_MANLE Receptor-type tyrosine-protein phosphatase gamma OS=Mandrillus leucophaeus OX=9568 GN=PTPRG PE=3 SV=1,1416,8ca.beta.45,93.6,7.8e-30,1416.0,381.0
+tr|A0A2K5Y5K3|A0A2K5Y5K3_MANLE,tr|A0A2K5Y5K3|A0A2K5Y5K3_MANLE Carbonic anhydrase OS=Mandrillus leucophaeus OX=9568 GN=CA1 PE=3 SV=1,261,8ca.beta.45,157.0,4.2999999999999994e-49,261.0,381.0
+tr|A0A2K5Y5L3|A0A2K5Y5L3_MANLE,tr|A0A2K5Y5L3|A0A2K5Y5L3_MANLE Carbonic anhydrase 1 OS=Mandrillus leucophaeus OX=9568 GN=CA1 PE=3 SV=1,127,8ca.beta.45,58.4,4e-19,127.0,381.0
+tr|A0A2K5Y9G9|A0A2K5Y9G9_MANLE,tr|A0A2K5Y9G9|A0A2K5Y9G9_MANLE Carbonic anhydrase 6 OS=Mandrillus leucophaeus OX=9568 GN=CA6 PE=3 SV=1,180,NO_HIT,,,,
+tr|A0A2K5YKK5|A0A2K5YKK5_MANLE,tr|A0A2K5YKK5|A0A2K5YKK5_MANLE Receptor-type tyrosine-protein phosphatase zeta OS=Mandrillus leucophaeus OX=9568 GN=PTPRZ1 PE=3 SV=1,2287,8ca.beta.45,87.4,6.200000000000001e-28,2287.0,381.0
+tr|A0A2K5YZQ2|A0A2K5YZQ2_MANLE,tr|A0A2K5YZQ2|A0A2K5YZQ2_MANLE Carbonic anhydrase OS=Mandrillus leucophaeus OX=9568 GN=CA4 PE=3 SV=1,312,8ca.beta.45,103.8,6.3e-33,312.0,381.0
+tr|A0A2K5ZBI7|A0A2K5ZBI7_MANLE,tr|A0A2K5ZBI7|A0A2K5ZBI7_MANLE Carbonic anhydrase OS=Mandrillus leucophaeus OX=9568 GN=CA9 PE=3 SV=1,447,8ca.beta.45,96.5,9.999999999999999e-31,447.0,381.0
+tr|A0A2K6ACW9|A0A2K6ACW9_MANLE,tr|A0A2K6ACW9|A0A2K6ACW9_MANLE Carbonic anhydrase OS=Mandrillus leucophaeus OX=9568 GN=CA7 PE=3 SV=1,263,8ca.beta.45,143.1,7.100000000000001e-45,263.0,381.0
+tr|A0A2K6BFW1|A0A2K6BFW1_MACNE,tr|A0A2K6BFW1|A0A2K6BFW1_MACNE Carbonic anhydrase 6 OS=Macaca nemestrina OX=9545 GN=CA6 PE=3 SV=1,180,NO_HIT,,,,
+tr|A0A2K6BM74|A0A2K6BM74_MACNE,tr|A0A2K6BM74|A0A2K6BM74_MACNE Carbonic anhydrase OS=Macaca nemestrina OX=9545 GN=CA3 PE=3 SV=1,290,8ca.beta.45,138.3,2.0999999999999997e-43,290.0,381.0
+tr|A0A2K6BW38|A0A2K6BW38_MACNE,tr|A0A2K6BW38|A0A2K6BW38_MACNE Receptor-type tyrosine-protein phosphatase gamma OS=Macaca nemestrina OX=9545 GN=PTPRG PE=3 SV=1,1445,8ca.beta.45,93.6,8.1e-30,1445.0,381.0
+tr|A0A2K6CV11|A0A2K6CV11_MACNE,tr|A0A2K6CV11|A0A2K6CV11_MACNE Carbonic anhydrase OS=Macaca nemestrina OX=9545 GN=CA2 PE=3 SV=1,260,8ca.beta.45,150.4,4.399999999999999e-47,260.0,381.0
+tr|A0A2K6CV21|A0A2K6CV21_MACNE,tr|A0A2K6CV21|A0A2K6CV21_MACNE Carbonic anhydrase 2 OS=Macaca nemestrina OX=9545 GN=CA2 PE=3 SV=1,109,8ca.beta.45,43.1,1.8e-14,109.0,381.0
+tr|A0A2K6CVL1|A0A2K6CVL1_MACNE,tr|A0A2K6CVL1|A0A2K6CVL1_MACNE Carbonic anhydrase OS=Macaca nemestrina OX=9545 GN=CA4 PE=3 SV=1,315,8ca.beta.45,105.4,2.1000000000000003e-33,315.0,381.0
+tr|A0A2K6CW86|A0A2K6CW86_MACNE,tr|A0A2K6CW86|A0A2K6CW86_MACNE Carbonic anhydrase OS=Macaca nemestrina OX=9545 GN=CA9 PE=3 SV=1,529,8ca.beta.45,97.5,5.3e-31,529.0,381.0
+tr|A0A2K6D3T4|A0A2K6D3T4_MACNE,tr|A0A2K6D3T4|A0A2K6D3T4_MACNE Receptor-type tyrosine-protein phosphatase zeta OS=Macaca nemestrina OX=9545 GN=PTPRZ1 PE=3 SV=1,2319,8ca.beta.45,92.2,2.1e-29,2319.0,381.0
+tr|A0A2K6D5G9|A0A2K6D5G9_MACNE,tr|A0A2K6D5G9|A0A2K6D5G9_MACNE Carbonic anhydrase 1 OS=Macaca nemestrina OX=9545 GN=CA1 PE=3 SV=1,127,8ca.beta.45,60.4,1e-19,127.0,381.0
+tr|A0A2K6D5K6|A0A2K6D5K6_MACNE,tr|A0A2K6D5K6|A0A2K6D5K6_MACNE Carbonic anhydrase OS=Macaca nemestrina OX=9545 GN=CA1 PE=3 SV=1,261,8ca.beta.45,158.4,1.5999999999999998e-49,261.0,381.0
+tr|A0A2K6EPT2|A0A2K6EPT2_PROCO,tr|A0A2K6EPT2|A0A2K6EPT2_PROCO Receptor-type tyrosine-protein phosphatase gamma OS=Propithecus coquereli OX=379532 GN=PTPRG PE=3 SV=1,1447,8ca.beta.45,96.5,1.1000000000000001e-30,1447.0,381.0
+tr|A0A2K6F968|A0A2K6F968_PROCO,tr|A0A2K6F968|A0A2K6F968_PROCO Carbonic anhydrase OS=Propithecus coquereli OX=379532 GN=CA2 PE=3 SV=1,260,8ca.beta.45,151.2,2.5999999999999997e-47,260.0,381.0
+tr|A0A2K6FDD4|A0A2K6FDD4_PROCO,tr|A0A2K6FDD4|A0A2K6FDD4_PROCO Carbonic anhydrase OS=Propithecus coquereli OX=379532 GN=CA9 PE=3 SV=1,447,8ca.beta.45,97.2,6.6e-31,447.0,381.0
+tr|A0A2K6FDW8|A0A2K6FDW8_PROCO,tr|A0A2K6FDW8|A0A2K6FDW8_PROCO Carbonic anhydrase OS=Propithecus coquereli OX=379532 GN=CA4 PE=3 SV=1,315,8ca.beta.45,110.7,5.2e-35,315.0,381.0

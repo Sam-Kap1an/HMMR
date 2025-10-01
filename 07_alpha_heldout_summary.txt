@@ -1,0 +1,5 @@
+total_test=17
+evaluated=17
+with_hits=17
+coverage=1.0000
+accuracy=1.0000

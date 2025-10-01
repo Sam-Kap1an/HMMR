@@ -1,0 +1,20 @@
+# hmmbuild :: profile HMM construction from multiple sequence alignments
+# HMMER 3.4 (Aug 2023); http://hmmer.org/
+# Copyright (C) 2023 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# input alignment file:             /mnt/c/Users/SAM/CODE/HMMR/train_aligned_trimmed/8ca.iota.45.train.aln.fasta
+# output HMM file:                  /mnt/c/Users/SAM/CODE/HMMR/profiles/8ca.iota.45.hmm
+# name (the single) HMM:            8ca.iota.45
+# input alignment is asserted as:   protein
+# sym fraction for model structure: 0.200
+# number of worker threads:         4
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+# idx name                  nseq  alen  mlen eff_nseq re/pos description
+#---- -------------------- ----- ----- ----- -------- ------ -----------
+1     8ca.iota.45             77   379   352     5.27  0.590 
+
+# CPU time: 0.72u 0.00s 00:00:00.72 Elapsed: 00:00:00.10
+
+--- STDERR ---

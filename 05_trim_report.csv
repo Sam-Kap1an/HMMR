@@ -1,0 +1,9 @@
+class,kept_cols,orig_cols,nseq
+8ca.alpha.45.train.clean.aln,350,3783,65
+8ca.beta.45.train.clean.aln,412,3783,74
+8ca.delta.45.train.clean.aln,710,3783,40
+8ca.eta.45.train.clean.aln,1501,3783,24
+8ca.gamma.45.train.clean.aln,192,3783,69
+8ca.iota.45.train.clean.aln,379,3783,77
+8ca.theta.45.train.clean.aln,1109,3783,32
+8ca.zeta.45.train.clean.aln,841,3783,15

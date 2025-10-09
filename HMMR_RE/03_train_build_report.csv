@@ -1,0 +1,9 @@
+class,n_train_in_aln,out
+8ca.alpha.45,65,/mnt/c/Users/SAM/CODE/HMMR/HMMR_RE/train_aligned/8ca.alpha.45.train.aln.fasta
+8ca.beta.45,74,/mnt/c/Users/SAM/CODE/HMMR/HMMR_RE/train_aligned/8ca.beta.45.train.aln.fasta
+8ca.delta.45,40,/mnt/c/Users/SAM/CODE/HMMR/HMMR_RE/train_aligned/8ca.delta.45.train.aln.fasta
+8ca.eta.45,44,/mnt/c/Users/SAM/CODE/HMMR/HMMR_RE/train_aligned/8ca.eta.45.train.aln.fasta
+8ca.gamma.45,69,/mnt/c/Users/SAM/CODE/HMMR/HMMR_RE/train_aligned/8ca.gamma.45.train.aln.fasta
+8ca.iota.45,77,/mnt/c/Users/SAM/CODE/HMMR/HMMR_RE/train_aligned/8ca.iota.45.train.aln.fasta
+8ca.theta.45,93,/mnt/c/Users/SAM/CODE/HMMR/HMMR_RE/train_aligned/8ca.theta.45.train.aln.fasta
+8ca.zeta.45,60,/mnt/c/Users/SAM/CODE/HMMR/HMMR_RE/train_aligned/8ca.zeta.45.train.aln.fasta

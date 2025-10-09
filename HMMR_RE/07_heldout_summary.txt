@@ -1,0 +1,5 @@
+total_test=134
+evaluated=134
+with_hits=134
+coverage=1.0000
+accuracy=1.0000

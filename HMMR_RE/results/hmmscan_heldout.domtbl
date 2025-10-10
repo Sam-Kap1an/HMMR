@@ -239,5 +239,5 @@
 # Target file:     /mnt/c/Users/SAM/CODE/HMMR/HMMR_RE/hmmer_lib/all_classes.hmm
 # Option settings: hmmscan --tblout /mnt/c/Users/SAM/CODE/HMMR/HMMR_RE/results/hmmscan_heldout.tbl --domtblout /mnt/c/Users/SAM/CODE/HMMR/HMMR_RE/results/hmmscan_heldout.domtbl --cpu 4 /mnt/c/Users/SAM/CODE/HMMR/HMMR_RE/hmmer_lib/all_classes.hmm /mnt/c/Users/SAM/CODE/HMMR/HMMR_RE/tmp/heldout_test_sequences.faa 
 # Current dir:     /mnt/c/Users/SAM/CODE/HMMR
-# Date:            Thu Oct  9 15:40:24 2025
+# Date:            Thu Oct  9 23:43:34 2025
 # [ok]

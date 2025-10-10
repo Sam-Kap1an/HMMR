@@ -8,3 +8,5 @@ FASTA filter=lfs diff=lfs merge=lfs -text
 :: filter=lfs diff=lfs merge=lfs -text
 optional filter=lfs diff=lfs merge=lfs -text
 HMMR.ipynb filter=lfs diff=lfs merge=lfs -text
+HMMR_RE/results/hmmscan_uniprot_first_*.log filter=lfs diff=lfs merge=lfs -text
+HMMR_RE/trees_nohit_og/nohit_plus_og.distmat.txt filter=lfs diff=lfs merge=lfs -text

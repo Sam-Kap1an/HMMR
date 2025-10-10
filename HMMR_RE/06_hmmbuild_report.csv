@@ -1,9 +1,9 @@
 class,nseq,symbols,status,note
-8ca.alpha.45,65,11392,ok,symfrac=0.2
-8ca.beta.45,74,18106,ok,symfrac=0.2
-8ca.delta.45,40,14334,ok,symfrac=0.2
-8ca.eta.45,44,22090,ok,symfrac=0.2
-8ca.gamma.45,69,12059,ok,symfrac=0.2
-8ca.iota.45,77,15851,ok,symfrac=0.2
-8ca.theta.45,93,29112,ok,symfrac=0.2
-8ca.zeta.45,60,11979,ok,symfrac=0.2
+8ca.alpha.45.aln,0,0,skip,no_alignment_with_>=2seq
+8ca.beta.45.aln,0,0,skip,no_alignment_with_>=2seq
+8ca.delta.45.aln,0,0,skip,no_alignment_with_>=2seq
+8ca.eta.45.aln,0,0,skip,no_alignment_with_>=2seq
+8ca.gamma.45.aln,0,0,skip,no_alignment_with_>=2seq
+8ca.iota.45.aln,0,0,skip,no_alignment_with_>=2seq
+8ca.theta.45.aln,0,0,skip,no_alignment_with_>=2seq
+8ca.zeta.45.aln,0,0,skip,no_alignment_with_>=2seq
